@@ -1,0 +1,9 @@
+{
+  "passed": 23,
+  "errors": [],
+  "browser": "Google Chrome headless",
+  "tested": [
+    "HTTP",
+    "file://"
+  ]
+}

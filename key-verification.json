@@ -1,0 +1,182 @@
+[
+  {
+    "check": "DILR 1 unique initial inventory",
+    "result": "[16]"
+  },
+  {
+    "check": "DILR 2 transfer directions",
+    "result": "['AB', 'AB', 'BA', 'BA']"
+  },
+  {
+    "check": "DILR 3 final B",
+    "result": "10"
+  },
+  {
+    "check": "DILR 4 full ledger",
+    "result": "[(15, 9, 12), (9, 14, 11), (13, 8, 11), (10, 10, 7)]"
+  },
+  {
+    "check": "DILR 5 counterfactual final C",
+    "result": "13"
+  },
+  {
+    "check": "DILR 6/7 optimum",
+    "result": "(9, 17, 'ACDE', 'BDF')"
+  },
+  {
+    "check": "DILR 8 qualifying route pairs",
+    "result": "2"
+  },
+  {
+    "check": "DILR 9 closed DE",
+    "result": "(10, 18, 'ACE', 'BDF')"
+  },
+  {
+    "check": "DILR 10 closed DE and DF",
+    "result": "(11, 21)"
+  },
+  {
+    "check": "DILR 11 February C",
+    "result": "57"
+  },
+  {
+    "check": "DILR sales row totals",
+    "result": "[Fraction(120, 1), Fraction(160, 1), Fraction(190, 1)]"
+  },
+  {
+    "check": "DILR sales column totals",
+    "result": "[Fraction(150, 1), Fraction(150, 1), Fraction(170, 1)]"
+  },
+  {
+    "check": "DILR 12 production ratio",
+    "result": "3/2"
+  },
+  {
+    "check": "DILR 13 true option B",
+    "result": "(24, Fraction(180, 1))"
+  },
+  {
+    "check": "DILR 14 reallocation capacity",
+    "result": "11"
+  },
+  {
+    "check": "DILR 15 schedule",
+    "result": "['DFBEAC']"
+  },
+  {
+    "check": "DILR 16 Y workshops",
+    "result": "AF"
+  },
+  {
+    "check": "DILR 17 without implication",
+    "result": "2"
+  },
+  {
+    "check": "DILR 18 C with X",
+    "result": "2"
+  },
+  {
+    "check": "DILR 19 unique round 2",
+    "result": "[(3, 5, 4, 1, 2)]"
+  },
+  {
+    "check": "DILR 20 totals",
+    "result": "[9, 11, 9, 10, 6]"
+  },
+  {
+    "check": "DILR 21 weighted difference",
+    "result": "1"
+  },
+  {
+    "check": "DILR 22 changed totals",
+    "result": "[13, 11, 9, 6, 6]"
+  },
+  {
+    "check": "QA 1 transferred average",
+    "result": "75"
+  },
+  {
+    "check": "QA 2 profit",
+    "result": "8"
+  },
+  {
+    "check": "QA 3 B share",
+    "result": "7/26"
+  },
+  {
+    "check": "QA 4 replacement",
+    "result": "12.65"
+  },
+  {
+    "check": "QA 5 price",
+    "result": "700"
+  },
+  {
+    "check": "QA 6 average",
+    "result": "48"
+  },
+  {
+    "check": "QA 7 root products",
+    "result": "[24]"
+  },
+  {
+    "check": "QA 8 functional value",
+    "result": "40"
+  },
+  {
+    "check": "QA 9 logarithm ratio",
+    "result": "4"
+  },
+  {
+    "check": "QA 10 AP/GP",
+    "result": "[48]"
+  },
+  {
+    "check": "QA 11 minimizers",
+    "result": "15"
+  },
+  {
+    "check": "QA 12 admissible roots",
+    "result": "9"
+  },
+  {
+    "check": "QA 13 reciprocal roots",
+    "result": "71/105"
+  },
+  {
+    "check": "QA 14 tangent distance",
+    "result": "225/4"
+  },
+  {
+    "check": "QA 15 subtriangle",
+    "result": "135"
+  },
+  {
+    "check": "QA 16 trapezoid",
+    "result": "125"
+  },
+  {
+    "check": "QA 17 material cost",
+    "result": "150"
+  },
+  {
+    "check": "QA 18 least congruent integer",
+    "result": "2992"
+  },
+  {
+    "check": "QA 19 least square multiple",
+    "result": "588"
+  },
+  {
+    "check": "QA 20 triples",
+    "result": "7"
+  },
+  {
+    "check": "QA 21 arrangements",
+    "result": "10"
+  },
+  {
+    "check": "QA 22 lattice routes",
+    "result": "32"
+  }
+]

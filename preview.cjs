@@ -1,0 +1,2 @@
+const {chromium}=require('/Users/tharunreddy/.cache/codex-runtimes/codex-primary-runtime/dependencies/node/node_modules/playwright');
+(async()=>{const browser=await chromium.launch({headless:true,executablePath:'/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'});const page=await browser.newPage({viewport:{width:1440,height:960}});await page.goto('http://127.0.0.1:8765');await page.getByText('Start Examination',{exact:true}).waitFor();await page.screenshot({path:'work/welcome.png',fullPage:true});console.log(await page.title());await browser.close();})();

@@ -1,0 +1,1208 @@
+{
+  "title": "CAT 2026 · Advanced Full Mock",
+  "version": "revised-2026-11-22",
+  "sourceSha256": "8d8a68da132083639c673a93efa0d0fd60be7869b76865d3f87fcc6ca0a7c470",
+  "contexts": {
+    "V1": {
+      "title": "When Instruments Become Interventions",
+      "html": "<p>A measuring instrument is usually imagined as a window: it may be cloudy, but polishing it should bring the observer closer to a scene that exists independently of the glass. This metaphor works reasonably well when a thermometer is placed briefly in a large reservoir. It becomes less reliable when measuring a phenomenon alters the conditions that produce it. A sensor installed in a narrow stream may redirect the current; a survey asking employees whether they trust management may itself change what employees regard as a trustworthy response. In such cases, the problem is not simply that observations contain error. The object of observation has partly become a product of the attempt to observe it.</p><p>Researchers sometimes address this difficulty by calibrating an instrument against a reference. But calibration assumes that the reference remains stable under the relevant act of measurement. Consider a municipal authority that estimates traffic congestion using travel times reported by a navigation application. Initially, those reports may describe existing travel patterns fairly well. Once drivers receive route recommendations based on the reports, however, traffic redistributes. A road formerly classified as uncongested may become crowded precisely because the system classified it that way. Comparing the application with a second application does not necessarily solve the problem if both influence drivers who share the same roads.</p><p>It is tempting to call this a defect of technology and to prefer an observer who does not interfere. Yet non-interference is not always available, nor is it always desirable. Public-health officials who measure infection clusters may issue warnings that reduce transmission. If the resulting forecasts prove too pessimistic, this need not show that the original model was poorly constructed: its publication may have helped prevent the outcome it anticipated. The relevant distinction is between an instrument that misdescribes a relatively stable world and one that helps change the world it describes. Both can produce a mismatch between forecast and outcome, but the remedies differ. Better calibration may correct the former; it cannot, by itself, explain the latter.</p><p>This distinction does not make every self-defeating forecast a success. A warning may be ignored, its apparent effect may be due to an unrelated policy, or its initial forecast may have been exaggerated. To claim that measurement caused a change, investigators need evidence about the pathway connecting observation, response, and outcome. They might compare otherwise similar populations exposed to different warnings, while recognizing that such comparisons can be compromised if people in one population influence those in another. The task is therefore not to abandon standards of evidence but to make the consequences of observation part of what those standards examine.</p><p>There is a further complication. An institution may deliberately choose a measurement that induces desirable behavior rather than one that most accurately records behavior in the absence of measurement. Publishing a hospital&#x27;s waiting times might encourage hospitals to reduce delays, even if the published figure then becomes a poor guide to how long a patient would have waited without publication. This can be a defensible policy choice. It becomes intellectually misleading only when the institution presents the resulting number as a neutral portrait of an untouched reality. The instrument can be both a useful lever and an</p><p>imperfect window; confusion begins when success in one role is treated as proof of success in the other.</p>"
+    },
+    "V2": {
+      "title": "The Accountability Gap in Automated Decisions",
+      "html": "<p>When an agency replaces a discretionary procedure with an algorithm, it often claims to have made decisions more accountable. The claim has an intuitive basis. An official who rejects an application may offer a reason that changes from one interview to the next; a computer system can apply the same rule to thousands of applications and preserve a record of each calculation. Consistency and traceability are genuine improvements. But neither establishes who should answer for a decision when its consequences are challenged. A record of how a result was produced is not necessarily an account of why that result was justified.</p><p>Consider a city that assigns emergency housing through a scoring system. Legislators specify that scarce rooms should go to applicants facing the greatest risk. Administrators select the data used to represent risk, a contractor develops the model, and caseworkers implement its rankings. If a person is excluded because recent changes of address are interpreted as evidence of instability, each participant can plausibly point elsewhere. The legislator authorized prioritization, not that particular indicator; the contractor optimized the indicator supplied; the administrator relied on validation results; and the caseworker followed the prescribed ranking. The decision is not ownerless because no one participated. It becomes difficult to contest precisely because responsibility is distributed among participants whose contributions are individually defensible.</p><p>One response is to demand that algorithms be explainable. Yet an explanation may be technically accurate while failing to identify the judgment at issue. A system might report that an applicant&#x27;s score fell because she had changed addresses three times. That tells us which feature affected the ranking, but not whether frequent moves should count against a person whose displacement is itself evidence of need. Conversely, a model that is too complicated to describe in a single sentence may still be governed by a publicly defensible policy and a meaningful appeal process. Transparency is thus valuable, but it cannot substitute for deciding which institution has authority to defend, revise, and remedy the rules embodied in a model.</p><p>Critics sometimes infer that responsibility requires returning every decision to a human official. This overlooks two difficulties. Human discretion can conceal prejudice behind a vocabulary of judgment, and placing an official at the end of an automated process may merely create a ceremonial signature. If that official lacks the time, evidence, or authority to overturn the recommendation, the human presence does little to restore accountability. What matters is not whether a person appears somewhere in the procedure, but whether an identifiable actor can examine the grounds of a contested decision and change its outcome when those grounds fail.</p><p>The strongest institutional arrangement may therefore separate routine consistency from exceptional review. An automated system can rank ordinary cases while a designated body retains the authority and resources to hear challenges, inspect the policy assumptions behind disputed indicators, and order remedies. This arrangement is not costless: appeals take time, and exceptions can reduce uniformity. Nor does it guarantee that every adverse result is mistaken. Its justification is narrower. Efficiency is worth preserving where possible, but it should not be purchased by making a consequential decision impossible to contest. Accountability is not the elimination of disagreement; it is the assignment of responsibility for answering it.</p>"
+    },
+    "V3": {
+      "title": "The Uses and Limits of Public Memory",
+      "html": "<p>A city rebuilding its central square after a flood must decide whether to restore a statue that once stood there. The statue commemorated an engineer credited with protecting the city from earlier floods; newly examined records suggest that his embankments diverted water toward poorer settlements. Some residents demand its removal as a correction to the historical record. Others insist that removal would erase the city&#x27;s past. Both positions presume that a monument chiefly communicates what happened. Yet a monument is also a decision about which events deserve a permanent place in the present. Its significance lies as much in the selection it performs as in the facts it depicts.</p><p>This distinction does not make accuracy irrelevant. A plaque that falsely attributes a bridge to the wrong designer can and should be corrected. But even a perfectly accurate plaque cannot answer why one designer is celebrated while the laborers who built the bridge remain unnamed. Historical inquiry asks whether an account is supported by evidence; commemoration additionally asks what a community wishes to honor. Treating these as identical tasks allows a political judgment to masquerade as a factual necessity. It also permits officials to defend a controversial choice by pointing to details that no one disputes.</p><p>Museums sometimes respond by displaying contradictory accounts side by side. Such pluralism may expose visitors to perspectives excluded from the official narrative. Yet adding voices does not automatically redistribute authority. A museum may invite displaced families to recount the costs of an infrastructure project while retaining sole control over which testimonies are shortened, translated, or placed beside the entrance. The institution can become more inclusive in the material it exhibits without becoming more accountable for how that material is arranged. Conversely, surrendering all editorial judgment would not guarantee fairness: some claims are better supported than others, and curators must still distinguish evidence from invention.</p><p>The problem is sharpened by institutions&#x27; incentives. A council may fund an exhibition that acknowledges past injustice precisely because the acknowledgment demonstrates its present enlightenment. Public criticism then becomes a resource for institutional legitimacy. This is not proof that the criticism is insincere or ineffective. The exhibition may teach visitors something important, and officials may genuinely revise their beliefs. But a measure of success confined to whether visitors admire the institution could reward the appearance of self-criticism more readily than changes in whose interests the institution serves.</p><p>Consider a proposal to restore the statue but surround it with accounts of the settlements harmed by the embankments. Opponents call the compromise evasive; supporters call it historically complete. Neither verdict follows merely from the quantity of information supplied. The relevant questions include who chose the accounts, whether residents can challenge their presentation, and whether the city treats the documented harm as bearing on current flood policy. The statue might remain while the city&#x27;s public memory becomes more answerable to those it previously excluded; it might also remain as the centerpiece of a display that absorbs criticism without altering anything consequential.</p><p>Public memory, then, should not be judged solely by the number of perspectives represented or the accuracy of individual inscriptions. Its democratic quality also depends on the processes through which representations can be disputed and on whether those disputes can affect decisions beyond the exhibition hall. This does not mean every historical grievance must dictate a present policy. It means that institutions cannot claim to have settled a controversy simply by displaying it.</p>"
+    },
+    "V4": {
+      "title": "The Ecology of Reliable Cooperation",
+      "html": "<p>A fishing cooperative and a private fleet can agree that the health of a coastal fishery matters and still disagree about what to do this season. The private fleet calculates that a larger catch will cover its rising fuel costs. The cooperative fears that an unusually large catch will reduce next year&#x27;s breeding stock. Neither side must be ignorant or malicious. The disagreement arises partly because the benefit of restraint is distributed across future users, while the cost of leaving fish uncaught falls immediately on whoever restrains themselves. Yet describing the problem as a simple conflict between individual profit and collective welfare obscures a complication: a rule that makes restraint attractive in an ordinary year may cease to do so after a storm destroys half the boats.</p><p>Governments often respond with fixed catch limits, treating the ecosystem as a stock whose renewal can be estimated and divided into permissible withdrawals. Such limits can prevent a race to harvest. Their apparent precision, however, rests on estimates of breeding rates, migration and illegal catches. If warmer currents move spawning grounds, a limit derived from last decade&#x27;s data may be too generous even when every vessel complies. Conversely, a limit set conservatively enough for the worst imaginable season may push small operators out of business in ordinary years. Scientific uncertainty therefore does not make limits useless; it makes the conditions under which they are revised as important as the numbers initially chosen.</p><p>One proposed improvement is to allow unused catch allowances to be carried forward. In principle, this rewards fleets that fish less today. But a transferable allowance can also become an asset: firms with access</p><p>to credit may purchase allowances from struggling operators, concentrating the right to fish even if total extraction remains unchanged. A rule can thus improve the ecological indicator it was designed to control while undermining the social cooperation on which enforcement depends. This is not an argument that trading allowances is always harmful. Where ownership is dispersed and enforcement trusted, trading may reduce the cost of meeting a conservation target. Its consequences depend on institutions that are not visible in a chart of total catches.</p><p>A second proposal replaces annual limits with a trigger: fishing pauses whenever a monitoring index falls below a threshold. Because the rule responds to current conditions, it appears more adaptive. But the index itself may be affected by the rule. When fishing pauses, vessels stop supplying observations from offshore waters; the resulting scarcity of reports can make the index look worse, prolonging the pause. Alternatively, fleets may change where they fish to avoid triggering the threshold, leaving the index stable while pressure shifts to poorly monitored habitats. A feedback mechanism is not automatically self-correcting merely because it updates frequently. It can amplify an error or move the activity it measures out of view.</p><p>Some analysts conclude that conservation rules should be negotiated locally, since fishers possess knowledge that remote models overlook. Local knowledge is indispensable, but locality does not abolish power. A village committee dominated by boat owners may exclude seasonal workers whose livelihoods depend on processing the catch. Equally, a distant regulator may protect those workers&#x27; interests while misunderstanding the tides. The choice is not between local wisdom and scientific expertise; it is between arrangements that can expose their assumptions to challenge and those that cannot. The relevant question is who can contest a forecast, what evidence forces a revision, and who bears the cost while officials decide.</p><p>Reliable cooperation, then, is not simply the achievement of a low catch in a given year. It is the capacity to maintain ecological restraint through shocks without treating every revision as a betrayal, and without distributing the burden so unevenly that compliance collapses. A policy may succeed by its original metric and still erode that capacity. Conversely, revising a target after new evidence need not indicate failure, provided the process preserves reasons for those asked to comply to trust the rule. The durability of conservation depends not on eliminating uncertainty, but on governing the consequences of being wrong.</p>"
+    },
+    "D1": {
+      "title": "Three-depot reserve allocation",
+      "html": "<p>Three depots, A, B and C, distribute emergency supplies over four consecutive days. All quantities are indivisible crates. At the start of Day 1, depot A has x crates, depot B has 24 − x crates, and depot C has 12 crates, where x is an integer from 8 to 18, inclusive.</p><p>On each day, the following steps occur in the specified order:</p><p>1. The three depots receive their deliveries and fulfill their local demand as shown in the table. These changes are applied simultaneously to the balances carried from the preceding day.</p><p>2. First transfer: If A has at least 12 crates at this point, A sends 3 crates to B. Otherwise, B sends 2 crates to A.</p><p>3. Second transfer: After the first transfer, if B has at least 10 crates, B sends 2 crates to C. Otherwise, C sends 1 crate to B.</p><p>4. The balances after both transfers become the closing balances for the day and the opening balances for the next day. No depot may have a negative balance at any stage.</p><div class=\"table-scroll\"><table><tr><th>Day</th><th>A delivery</th><th>B delivery</th><th>C delivery</th><th>A demand</th><th>B demand</th><th>C demand</th></tr><tr><td>1</td><td>6</td><td>2</td><td>4</td><td>4</td><td>5</td><td>3</td></tr><tr><td>2</td><td>2</td><td>7</td><td>1</td><td>5</td><td>3</td><td>4</td></tr><tr><td>3</td><td>5</td><td>1</td><td>3</td><td>3</td><td>6</td><td>2</td></tr><tr><td>4</td><td>1</td><td>5</td><td>2</td><td>6</td><td>2</td><td>5</td></tr></table></div><p>An auditor confirms two facts about the actual four-day operation:</p><p>- At the end of Day 2, A held exactly 9 crates.</p><p>- At the end of Day 3, C held exactly 11 crates.</p><p>Answer Q1–Q5 independently using the data above. For Q5, retain the original starting inventory inferred from the auditor&#x27;s observations, but apply the stated hypothetical change. All other rules remain unchanged.</p>"
+    },
+    "D2": {
+      "title": "Two-response directed network",
+      "html": "<p>Six stations A, B, C, D, E and F are connected by one-way roads. Two emergency teams depart simultaneously at time zero: Team 1 starts at A and must reach E; Team 2 starts at B and must reach F. Each team must follow a simple directed path (no station may be visited twice by the same team).</p><p>The table lists every available road and its traversal time in minutes. Reverse travel is prohibited unless separately listed.</p><div class=\"table-scroll\"><table><tr><th>Road</th><th>Minutes</th><th>Road</th><th>Minutes</th><th>Road</th><th>Minutes</th></tr><tr><td>A→B</td><td>3</td><td>A→C</td><td>4</td><td>A→D</td><td>7</td></tr><tr><td>B→C</td><td>2</td><td>B→D</td><td>3</td><td>B→E</td><td>8</td></tr><tr><td>C→B</td><td>1</td><td>C→D</td><td>2</td><td>C→E</td><td>6</td></tr><tr><td>C→F</td><td>9</td><td>D→E</td><td>3</td><td>D→F</td><td>5</td></tr><tr><td>E→C</td><td>2</td><td>E→F</td><td>3</td><td>F→E</td><td>2</td></tr></table></div><p>Capacity rule: A road may be assigned to at most one team for the entire operation, even if the teams would traverse it at different times. The teams may share stations, including transit stations, but may not share a directed road. All times are additive. Waiting never improves a solution and is excluded.</p><p>Dispatch objective: First minimize the time at which both teams have reached their destinations (the larger of the two arrival times). Among assignments attaining this minimum, minimize the sum of the two arrival times. If there is still a tie, no further tie-break applies. A question about the optimal dispatch refers to this two-level objective.</p><p>Each question is independent and uses the original road network unless it explicitly describes a closure. A closure removes the indicated road(s) entirely. Both teams must still be dispatched.</p>"
+    },
+    "D3": {
+      "title": "Three-plant sales and production reconciliation",
+      "html": "<p>A company operates plants A, B and C. Each plant produces and sells a single standardized product. The following table records units sold in January, February and March. Eight entries have been withheld. All quantities are nonnegative integers.</p><div class=\"table-scroll\"><table><tr><th>Plant</th><th>January</th><th>February</th><th>March</th><th>Quarter total</th></tr><tr><td>A</td><td>?</td><td>?</td><td>40</td><td>120</td></tr><tr><td>B</td><td>?</td><td>?</td><td>?</td><td>160</td></tr><tr><td>C</td><td>?</td><td>?</td><td>?</td><td>190</td></tr><tr><td>Month total</td><td>150</td><td>150</td><td>170</td><td>470</td></tr></table></div><p>Additional facts about sales:</p><p>1. Plant A&#x27;s February sales were 50% higher than its January sales.</p><p>2. Plant B sold 10 more units in January than in February.</p><p>3. Plant C&#x27;s March sales were 10 more units than plant B&#x27;s March sales.</p><p>4. Plant C&#x27;s February sales were 2 more units than plant B&#x27;s January sales.</p><p>The company maintains separate inventories at the plants. At the start of January, inventory was 10 units at A, 15 at B and 12 at C. During each month, the plant first produces its units, then fulfils that month&#x27;s sales. No transfers occur between plants unless a question explicitly permits them. All units produced are usable; no other inflows or outflows occur.</p><p>For each plant, the difference production minus sales was:</p><div class=\"table-scroll\"><table><tr><th>Plant</th><th>January</th><th>February</th><th>March</th></tr><tr><td>A</td><td>+6</td><td>−4</td><td>+8</td></tr><tr><td>B</td><td>+4</td><td>+5</td><td>−3</td></tr><tr><td>C</td><td>0</td><td>−6</td><td>+5</td></tr></table></div><p>A negative difference means the plant sold some units from previously accumulated inventory. Inventory cannot become negative at any month-end. The data are mutually consistent.</p><p>All questions use the original data unless a question explicitly introduces a change.</p>"
+    },
+    "D4": {
+      "title": "Conditional scheduling and rotating supervisors",
+      "html": "<p>A training centre must conduct six distinct workshops, labelled A, B, C, D, E and F, in six consecutive, equally long time slots numbered 1 through 6. Exactly one workshop occupies each slot, and every workshop is conducted exactly once.</p><p>Three supervisors, X, Y and Z, are available in a fixed repeating rotation: X supervises slots 1 and 4, Y supervises slots 2 and 5, and Z supervises slots 3 and 6. A workshop&#x27;s supervisor is determined by its scheduled slot. Supervisors do not change slots when the workshop order changes.</p><p>The following six scheduling conditions all hold:</p><p>1. A occurs earlier than C.</p><p>2. B is scheduled exactly two slots after D (there is one intervening slot).</p><p>3. E is immediately adjacent to A, either before or after it.</p><p>4. If C occurs after B, then F must occur before A. This is a one-way implication; its converse is not assumed.</p><p>5. The slot numbers of A and F differ by at least three.</p><p>6. C and D are not in adjacent slots.</p><p>Answer Q15–Q18. Each question is self-contained and uses the original six conditions unless it explicitly changes one. A modified-condition question does not inherit modifications from another question.</p>"
+    },
+    "D5": {
+      "title": "Conditional Rankings and Performance Analysis",
+      "html": "<p>Five teams—A, B, C, D and E—participated in three rounds of a strategy tournament. In each round, the teams received the five distinct performance points 1, 2, 3, 4 and 5, with each point value awarded exactly once. A higher point value indicates better performance. The tournament&#x27;s original total for a team is the sum of its three round scores.</p><p>The scores from Round 1 were recorded as follows:</p><div class=\"table-scroll\"><table><tr><th>Team</th><th>A</th><th>B</th><th>C</th><th>D</th><th>E</th></tr><tr><td>Round 1 points</td><td>5</td><td>3</td><td>1</td><td>4</td><td>2</td></tr></table></div><p>The Round 2 and Round 3 scores have been erased, but the following four statements are known to be accurate:</p><p>1. B&#x27;s Round 2 score plus D&#x27;s Round 3 score is 10.</p><p>2. C&#x27;s original tournament total is exactly one point less than D&#x27;s original tournament total.</p><p>3. A&#x27;s Round 2 score plus B&#x27;s Round 3 score is 6.</p><p>4. A received exactly 1 point in Round 3.</p><p>All questions refer to the unique scores consistent with these conditions unless a question explicitly changes the scoring rule. Changes in one question do not carry over to another.</p>"
+    }
+  },
+  "questions": [
+    {
+      "id": "VARC-1",
+      "section": 0,
+      "number": 1,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V1",
+      "html": "<p>Which statement best captures the passage&#x27;s central argument?</p>",
+      "options": [
+        "<p>Measurement should be evaluated primarily by whether it improves outcomes, since any attempt to represent an unchanged world is ultimately illusory.</p>",
+        "<p>When observations alter behavior, disagreement between prediction and outcome can reflect intervention rather than inaccuracy; evaluating the instrument therefore requires examining both its descriptive and causal roles.</p>",
+        "<p>The chief limitation of modern instruments is that their calibration standards are unstable, a problem best solved by comparing multiple independent devices.</p>",
+        "<p>Instruments that affect what they measure should be excluded from scientific inquiry, though their use in public policy may remain justified.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 3,
+      "solutionMarkdown": "The author separates observational error from changes caused by observation and calls for examining the pathways and dual functions of measurement. **A** wrongly makes improvement the primary criterion and declares neutral description impossible; the passage explicitly preserves standards of evidence. **C** mistakes calibration for the complete remedy and overlooks shared behavioral feedback. **D** calls for exclusion, which the author rejects."
+    },
+    {
+      "id": "VARC-2",
+      "section": 0,
+      "number": 2,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V1",
+      "html": "<p>A city uses an application to forecast road congestion and then recommends routes to drivers. Under which condition would agreement between the application&#x27;s forecasts and a second application&#x27;s forecasts provide the least additional evidence of descriptive accuracy?</p>",
+      "options": [
+        "<p>The second application draws on a different sample of drivers, but both applications&#x27; recommendations substantially redirect traffic onto the same roads.</p>",
+        "<p>The second application uses different sensors, and neither application&#x27;s forecasts are shown to drivers until after their journeys.</p>",
+        "<p>Both applications predict similar congestion patterns using separately collected traffic records, but their forecasts are checked only against traffic observed after drivers have received both applications’ route recommendations.</p>",
+        "<p>The second application uses the same units as the first, but calibrates its sensors against fixed roadside counters.</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 3,
+      "solutionMarkdown": "Even different driver samples do not provide independent validation if both systems change the same underlying traffic network. Agreement can be generated by their shared intervention. **B** removes the key feedback during the measured journeys, so agreement is more informative. **C** describes a partially independent data source but still tests forecasts against behavior after both applications have intervened, so it supplies some new evidence without eliminating the feedback problem. **A** is weaker because even the different driver samples share the same intervention channel and the same altered roads. **D** supplies a potentially useful external reference, though fixed counters would not alone resolve every causal issue.",
+      "note": "Source-key caution: A is the intended answer. C also describes intervention-contaminated validation; the ranking of these distractors remains an editorial judgment. This simulator follows the supplied key and flags the issue for review."
+    },
+    {
+      "id": "VARC-3",
+      "section": 0,
+      "number": 3,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V1",
+      "html": "<p>A health agency argues that its infection forecast was sound because cases declined after it published a warning. Which additional finding would most seriously weaken the agency&#x27;s specific claim that publishing the forecast caused the decline?</p>",
+      "options": [
+        "<p>A neighboring region received the same warning and experienced a smaller decline, although its initial infection rate was higher.</p>",
+        "<p>People who saw the warning reported greater concern about infection, but their reported protective behavior changed little.</p>",
+        "<p>A comparable region that never received the warning experienced an equally large decline immediately after a nationwide treatment program began in both regions.</p>",
+        "<p>The agency&#x27;s forecast had been based on incomplete case reports, although its predicted direction of change was consistent with earlier outbreaks.</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 3,
+      "solutionMarkdown": "An equally large decline in a comparable unexposed region, coincident with a treatment program affecting both, provides a concrete alternative cause. It most directly undermines the inference from temporal sequence to the warning's causal effect. **A** may reflect different starting conditions and does not isolate exposure. **B** raises doubts about a behavioral pathway but does not establish the absence of other responses. **D** challenges forecast quality rather than specifically testing whether publication caused the decline."
+    },
+    {
+      "id": "VARC-4",
+      "section": 0,
+      "number": 4,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V1",
+      "html": "<p>Which situation is most closely analogous to the final paragraph&#x27;s distinction between an instrument as a &#x27; lever&#x27; and as a &#x27;window&#x27;?</p>",
+      "options": [
+        "<p>After publishing attendance rankings, a school observes improved attendance and treats that improvement as confirmation that the rankings had accurately described how students would behave without the rankings.</p>",
+        "<p>A school replaces an inaccurate attendance register with a more reliable digital system and finds that reported attendance rises even though student behavior is unchanged.</p>",
+        "<p>A school surveys parents about attendance barriers, uses their responses to design bus routes, and reports both the survey results and the subsequent attendance improvement separately.</p>",
+        "<p>A school uses attendance rankings to identify frequently absent students but refuses to intervene, fearing that any intervention would invalidate the rankings.</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 3,
+      "solutionMarkdown": "The rankings change attendance (lever), but the school then treats the changed attendance as confirmation of what would have happened without publication (window), conflating intervention effects with baseline description. **B** concerns correction of recording error without behavioral intervention. **C** explicitly separates observation and intervention, avoiding the confusion. **D** refuses intervention rather than mistaking intervention effects for descriptive accuracy."
+    },
+    {
+      "id": "VARC-5",
+      "section": 0,
+      "number": 5,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V2",
+      "html": "<p>Which statement most accurately expresses the author&#x27;s position?</p>",
+      "options": [
+        "<p>Automated decisions become accountable once their calculations can be reproduced and their outcomes are consistent across applicants.</p>",
+        "<p>Human discretion is inherently more defensible than algorithmic ranking because officials can respond to exceptional circumstances.</p>",
+        "<p>Algorithms may improve procedural consistency, but accountability additionally requires an identifiable institution empowered to justify and remedy contested decisions.</p>",
+        "<p>A public body should avoid automated ranking whenever the criteria used to represent risk involve judgments about applicants&#x27; circumstances.</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 4,
+      "solutionMarkdown": "The opening distinguishes consistency and traceability from justification; the conclusion calls for an actor with authority and resources to hear challenges and order remedies. **C** preserves both halves of that argument.\n\n- **A:** Mistakes procedural traceability for substantive accountability, explicitly rejected in paragraphs 1 and 3.\n- **B:** Reverses the author's rejection of an automatic return to human discretion.\n- **D:** Converts the need to contest questionable indicators into a categorical ban on automated ranking; the conclusion endorses qualified automation."
+    },
+    {
+      "id": "VARC-6",
+      "section": 0,
+      "number": 6,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V2",
+      "html": "<p>The author&#x27;s criticism of a caseworker&#x27;s &#x27;ceremonial signature&#x27; most directly depends on which assumption?</p>",
+      "options": [
+        "<p>Officials are generally more susceptible to bias than the automated systems whose decisions they approve.</p>",
+        "<p>Responsibility cannot be meaningfully assigned to a reviewer who lacks the practical capacity to investigate and reverse a disputed recommendation.</p>",
+        "<p>Any human review of an automated recommendation must be conducted before the system assigns a score.</p>",
+        "<p>An automated system is unjustifiable unless its complete computational procedure can be explained to every applicant.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 5,
+      "solutionMarkdown": "The ceremonial-signature objection is that a nominal human reviewer cannot make the decision contestable without **time, evidence, and authority** to overturn it. **B** states the necessary practical condition. If a reviewer without these capacities could still ensure meaningful accountability, the criticism would lose its force.\n\n- **A:** The passage does not assume a general ranking of human versus algorithmic bias.\n- **C:** Invents a timing requirement; the passage discusses appeals after ranking.\n- **D:** Treats complete computational explanation as essential, whereas the author explicitly distinguishes transparency from institutional responsibility."
+    },
+    {
+      "id": "VARC-7",
+      "section": 0,
+      "number": 7,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V2",
+      "html": "<p>All of the following would be consistent with the passage&#x27;s account of accountability, EXCEPT:</p>",
+      "options": [
+        "<p>A scoring system can be fully auditable yet still embed a disputed judgment about what should count as evidence of need.</p>",
+        "<p>An appeals board can improve accountability even if its decisions occasionally depart from the uniform rankings generated by a model.</p>",
+        "<p>The presence of several individually defensible contributors to a decision can make the responsibility for defending that decision harder to locate.</p>",
+        "<p>Once a public agency documents the factors responsible for a rejected application, it has discharged its obligation to justify the policy choice behind those factors.</p>"
+      ],
+      "answer": "D",
+      "match": "option",
+      "page": 5,
+      "solutionMarkdown": "The author says knowing *which* feature lowered a score does not justify *why* that feature ought to count. **D** wrongly treats feature-level documentation as sufficient discharge of the agency's justificatory obligation.\n\n- **A:** Follows the example of address changes and disputed policy judgments.\n- **B:** Follows the final paragraph: exceptions can reduce uniformity while improving contestability.\n- **C:** Follows the housing example: dispersed, individually defensible roles create an accountability gap."
+    },
+    {
+      "id": "VARC-8",
+      "section": 0,
+      "number": 8,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V2",
+      "html": "<p>A city introduces a housing-allocation model and proposes four safeguards. Which safeguard would most directly address the problem identified in the passage while retaining the model&#x27;s efficiency benefits?</p>",
+      "options": [
+        "<p>Require the contractor to publish the model&#x27;s source code, while prohibiting caseworkers from altering its outputs to preserve consistency.</p>",
+        "<p>Ask each caseworker to sign every automated recommendation, without changing the evidence or authority available to caseworkers.</p>",
+        "<p>Replace the model with individual interviews conducted by senior officials, regardless of processing delays or variation between officials.</p>",
+        "<p>Keep automated rankings for routine cases, but establish an independent, adequately resourced review body able to question indicators and order corrected decisions.</p>"
+      ],
+      "answer": "D",
+      "match": "option",
+      "page": 5,
+      "solutionMarkdown": "**D** combines routine automated efficiency with a genuinely empowered appeal institution, matching the proposed arrangement in the final paragraph.\n\n- **A:** Improves transparency but prevents meaningful correction; source-code publication alone does not settle policy justification.\n- **B:** Replicates the 'ceremonial signature' without review capacity.\n- **C:** Might permit some human responsiveness but abandons the efficiency benefit the question requires retaining; the passage also warns of opaque human discretion."
+    },
+    {
+      "id": "VARC-9",
+      "section": 0,
+      "number": 9,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V3",
+      "html": "<p>The example of the museum displaying contradictory accounts primarily serves to:</p>",
+      "options": [
+        "<p>show that curatorial neutrality is impossible because historical evidence cannot distinguish reliable testimony from invention.</p>",
+        "<p>demonstrate that an institution can broaden the range of narratives it presents while retaining unequal control over how those narratives are framed.</p>",
+        "<p>establish that inviting displaced families to contribute accounts necessarily improves an institution&#x27;s democratic legitimacy, even without policy reform.</p>",
+        "<p>suggest that historical exhibitions should delegate every editorial decision to the communities whose experiences they represent.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 6,
+      "solutionMarkdown": "The museum can include testimony from displaced families yet continue to control selection, translation, shortening, and placement. The example separates **diversity of displayed content** from **accountability over presentation**.\n\n- **A:** Overstates the limits of historical evidence. The passage explicitly says some claims have better support than others.\n- **C:** Converts a potential benefit into a necessary legitimacy gain; the author explicitly denies automatic accountability.\n- **D:** Recommends the opposite extreme, which the passage rejects because editorial judgments remain necessary."
+    },
+    {
+      "id": "VARC-10",
+      "section": 0,
+      "number": 10,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V3",
+      "html": "<p>Which of the following findings would best support the passage’s explanation for how a council can gain legitimacy by publicly criticizing its own past conduct?</p>",
+      "options": [
+        "<p>Visitors tend to remember the council&#x27;s willingness to acknowledge wrongdoing more vividly than the historical details of the wrongdoing itself.</p>",
+        "<p>The council&#x27;s exhibition contains several archival documents that independently establish the accuracy of its account of the past.</p>",
+        "<p>The council commissioned the exhibition only after outside historians criticized the older commemorative display.</p>",
+        "<p>Residents who suffered from the earlier policy continue to disagree about whether the exhibition should have been funded.</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 6,
+      "solutionMarkdown": "The paradox disappears when public self-criticism functions as evidence of the council's *present* openness. Visitors may reward the act of acknowledgment, even while learning of a past failure. This mechanism matches the paragraph on institutional incentives.\n\n- **B:** Establishes historical accuracy but not how criticism creates present legitimacy.\n- **C:** Identifies a trigger for the exhibition but does not explain why the public would reward it.\n- **D:** Establishes disagreement but not the source of the council's reputational gain."
+    },
+    {
+      "id": "VARC-11",
+      "section": 0,
+      "number": 11,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V3",
+      "html": "<p>Two historians agree that the statue&#x27;s inscription is factually correct. Historian I argues that this settles the question of whether the statue should be restored. Historian II argues that restoration additionally requires a public justification for honoring this engineer rather than others. Which assessment most closely follows the passage?</p>",
+      "options": [
+        "<p>Historian I is correct because evidence-based accuracy is the only non-arbitrary standard available for public commemoration.</p>",
+        "<p>Historian II is correct only if the engineer&#x27;s achievements were exaggerated in the original inscription.</p>",
+        "<p>Historian II distinguishes historical verification from the normative choice of whom to commemorate, whereas Historian I conflates them.</p>",
+        "<p>Both historians are mistaken because the author regards all commemorative choices as expressions of institutional self-interest.</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 7,
+      "solutionMarkdown": "The passage separates **is the account true?** from **why honor this person?** Historian I treats factual correctness as sufficient; Historian II identifies the additional commemorative judgment.\n\n- **A:** Repeats the conflation criticized in paragraph 2.\n- **B:** Incorrectly makes the normative question contingent on an inaccurate inscription; it persists even when every factual detail is right.\n- **D:** Attributes a universal cynical claim to the author, who explicitly allows genuine learning and revision."
+    },
+    {
+      "id": "VARC-12",
+      "section": 0,
+      "number": 12,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V3",
+      "html": "<p>Which of the following CANNOT reasonably be inferred from the passage?</p>",
+      "options": [
+        "<p>A historically accurate exhibition can still fail to make the institution responsible for the choices through which history is presented.</p>",
+        "<p>A museum&#x27;s inclusion of formerly marginalized accounts may have educational value even if the institution also benefits reputationally.</p>",
+        "<p>Allowing affected communities to contest a display may matter more to democratic accountability than merely increasing the number of perspectives shown.</p>",
+        "<p>Whenever a historical exhibition produces no immediate policy change, its acknowledgment of past injustice is necessarily insincere.</p>"
+      ],
+      "answer": "D",
+      "match": "option",
+      "page": 7,
+      "solutionMarkdown": "The passage rejects inferring insincerity or ineffectiveness merely from institutional self-interest or the absence of immediate policy effects. It asks whether contestation *can* affect decisions, not whether every display must immediately alter policy. **D** converts a warning about incentives into an absolute verdict on motives.\n\n- **A:** Directly follows the contrast between accuracy and responsibility for framing.\n- **B:** Explicitly supported: exhibitions may teach important facts even as institutions gain legitimacy.\n- **C:** Supported by the concluding emphasis on contestability and consequential processes over the sheer number of represented views."
+    },
+    {
+      "id": "VARC-13",
+      "section": 0,
+      "number": 13,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V4",
+      "html": "<p>Which of the following best captures the author&#x27;s central argument?</p>",
+      "options": [
+        "<p>Since both scientific estimates and local judgments can be distorted, conservation is best achieved by fixing a strict limit and changing it only after ecological damage becomes measurable.</p>",
+        "<p>Conservation policies should be judged not only by immediate extraction outcomes but also by how they respond to uncertain evidence, distribute burdens, and sustain cooperation during shocks.</p>",
+        "<p>Allowance trading and threshold-based pauses should be abandoned because their indirect effects invariably undermine the ecological benefits they promise.</p>",
+        "<p>Locally negotiated conservation rules are generally superior to centralized rules because local fishers can detect ecological changes that formal models miss.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 8,
+      "solutionMarkdown": "The author argues that conservation is durable when institutions handle uncertain forecasts, changing conditions, unequal burdens, and trust—not simply when extraction hits a numerical target. Paragraphs 2–6 establish this through fixed limits, tradable allowances, monitoring triggers, and local governance.\n\n- **A** invokes genuine uncertainty but recommends inflexibility, contrary to the passage's emphasis on revisability before or amid shocks.\n- **C** treats the possible adverse effects of trading and triggers as inevitable; the author explicitly acknowledges conditions under which trading helps and says adaptive triggers are not inherently bad.\n- **D** preserves the local-knowledge point but ignores the explicit objection that local decision-making can exclude less powerful participants."
+    },
+    {
+      "id": "VARC-14",
+      "section": 0,
+      "number": 14,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V4",
+      "html": "<p>A regulator reports that transferable catch allowances reduced total extraction for three consecutive years. Which additional finding would most seriously weaken the inference that the policy has improved the fishery&#x27;s long-term resilience?</p>",
+      "options": [
+        "<p>The market price of allowances increased even as fuel prices fell, indicating that some fleets valued the right to fish more highly than before.</p>",
+        "<p>Allowances increasingly accumulated with a few firms; smaller operators exited, and remaining crews began concealing catches because they regarded enforcement as unfair.</p>",
+        "<p>Annual extraction fell below the regulator&#x27;s target, although scientists continued to disagree about the precise location of spawning grounds.</p>",
+        "<p>Several fleets sold unused allowances rather than carrying them forward, despite having initially supported the trading scheme.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 8,
+      "solutionMarkdown": "The inference runs from **lower extraction** to **greater long-term resilience**. B breaks the chain: concentration of rights causes exclusion, perceived unfairness, and concealment of catches, threatening compliance and the reliability of future conservation. This directly reflects the passage's warning that the ecological metric can improve while the cooperative institution deteriorates.\n\n- **A** indicates rising allowance prices but gives no evidence of exclusion, concealment, reduced compliance, or ecological fragility; price changes alone are underdetermined.\n- **C** repeats the favorable extraction result while adding scientific uncertainty, which the passage treats as a reason for revisable governance, not proof of declining resilience.\n- **D** describes a permitted transaction; without information about concentration or compliance it does not establish an adverse outcome."
+    },
+    {
+      "id": "VARC-15",
+      "section": 0,
+      "number": 15,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V4",
+      "html": "<p>Suppose a monitoring index falls below a threshold, triggering a fishing pause. During the pause, offshore observations decline because vessels no longer visit those waters, and the index falls further. Which policy change most directly addresses the causal defect identified in this scenario, without discarding adaptive triggers altogether?</p>",
+      "options": [
+        "<p>Lower the threshold permanently so that fishing is less likely to stop when offshore observations become sparse.</p>",
+        "<p>Replace the monitoring index with the previous year&#x27;s total catch, since catch is an objective quantity unaffected by observation practices.</p>",
+        "<p>Collect offshore measurements independently of fishing activity and assess the trigger using an index adjusted for changes in observation coverage.</p>",
+        "<p>Allow vessel owners to vote on whether a pause should continue, since they possess practical knowledge of conditions offshore.</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 9,
+      "solutionMarkdown": "The defect is **endogeneity of the monitoring data**: the pause reduces vessel observations, which lowers the index and prolongs the pause, regardless of actual ecological conditions. Independent sampling plus coverage adjustment separates environmental changes from changes in observation intensity while retaining the trigger mechanism.\n\n- **A** changes the threshold but does not correct biased measurement; it may also weaken protection when the stock is genuinely low.\n- **B** uses historical catch, which does not necessarily track current stock and is itself shaped by restrictions, behavior, and reporting.\n- **D** may add useful knowledge, but an unstructured vote does not directly correct the missing-data mechanism or ensure evidence is comparable over time."
+    },
+    {
+      "id": "VARC-16",
+      "section": 0,
+      "number": 16,
+      "type": "MCQ",
+      "topic": "Reading comprehension",
+      "context": "V4",
+      "html": "<p>Each of the following is consistent with the passage EXCEPT:</p>",
+      "options": [
+        "<p>A rule that improves an ecological measure can still weaken conservation if it makes enforcement less legitimate to those expected to comply.</p>",
+        "<p>A revision to a conservation target may preserve trust when its evidentiary basis and distributional consequences can be contested.</p>",
+        "<p>A locally governed fishery can reproduce inequalities even when its participants possess knowledge absent from centralized scientific models.</p>",
+        "<p>Because adaptive monitoring rules can distort their own evidence, a fixed annual catch limit is necessarily more reliable under ecological uncertainty.</p>"
+      ],
+      "answer": "D",
+      "match": "option",
+      "page": 9,
+      "solutionMarkdown": "The author critiques both fixed limits and adaptive triggers and insists on the institutions and evidence needed to revise either. The possibility of self-distorting monitoring does **not** entail that fixed annual limits are *necessarily* more reliable under uncertainty.\n\n- **A** follows paragraph 3's distinction between an improved extraction metric and deteriorating legitimacy/compliance.\n- **B** follows the final two paragraphs' emphasis on contestable evidence, equitable burdens, and transparent revision.\n- **C** follows paragraph 5's warning about boat owners excluding seasonal workers despite genuine local expertise."
+    },
+    {
+      "id": "VARC-17",
+      "section": 0,
+      "number": 17,
+      "type": "MCQ",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Insert the sentence at the most appropriate gap.</p><p>Sentence: The apparent independence of these observations was therefore an artifact of how they had been collected.</p><p>Researchers initially celebrated the agreement among three climate archives: tree rings, lake sediments, and historical harvest records. (1) Each appeared to register a sequence of unusually cold summers, and the convergence seemed to make the reconstruction unusually robust. (2) Later work revealed, however, that the harvest dates had been inferred from the same regional chronicles used to date disturbances in the lake sediments; the tree-ring series had also been aligned to those dates before comparison. (3) Agreement among the three records still mattered, but it no longer constituted three independent confirmations of the chronology. (4) A stronger test would require dating at least one archive without using the disputed historical sequence.</p>",
+      "options": [
+        "<p>Gap 1</p>",
+        "<p>Gap 2</p>",
+        "<p>Gap 3</p>",
+        "<p>Gap 4</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 9,
+      "solutionMarkdown": "At Gap 3, the previous sentence establishes a shared dating source for the apparently separate archives. The inserted sentence draws the immediate inference; the next sentence qualifies how much the convergence still proves. Gap 1 lacks a revealed collection flaw; Gap 2 precedes the evidence; Gap 4 interrupts the move from weakened confirmation to independent re-dating and places the conclusion too late."
+    },
+    {
+      "id": "VARC-18",
+      "section": 0,
+      "number": 18,
+      "type": "MCQ",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Insert the sentence at the most appropriate gap.</p><p>Sentence: Yet this solution transfers the problem of exclusion from the final vote to the earlier decision about what may be voted on.</p><p>Participatory budgeting is often praised because residents can directly allocate a portion of municipal spending. (1) Critics observe that turnout may favor property owners and organized groups, while informal workers are less able to attend meetings. (2) One reform is to reserve seats for underrepresented residents and require that their proposals receive a formal hearing. (3) If officials determine the eligible project categories in advance, participants may deliberate fairly over options that leave the most consequential priorities untouched. (4) Participation, then, must be assessed not only by who casts a vote but also by who can define the agenda.</p>",
+      "options": [
+        "<p>Gap 1</p>",
+        "<p>Gap 2</p>",
+        "<p>Gap 3</p>",
+        "<p>Gap 4</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 10,
+      "solutionMarkdown": "The reform involving reserved seats and hearings is the antecedent of **“this solution.”** The next sentence describes a preselected agenda, illustrating the shifted exclusion. Gaps 1 and 2 place the demonstrative before its referent; Gap 4 delays the explanation until after the example and weakens the logical progression. Note: the contrast between formal hearings and agenda control is essential, not merely a repeated keyword."
+    },
+    {
+      "id": "VARC-19",
+      "section": 0,
+      "number": 19,
+      "type": "MCQ",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Select the best summary.</p><p>When a city replaces a congested road with a wider one, travel times may initially fall. The improvement can encourage people who previously traveled at different hours, used trains, or avoided the trip to drive during the peak period. Businesses may also relocate to take advantage of the new route, lengthening commutes over time. This does not imply that road expansion can never improve mobility: where demand is limited by geography or coordinated pricing, the extra capacity may remain useful. But evaluating a project only by the speed observed immediately after opening confuses a temporary response with its long-term effect on travel behavior.</p>",
+      "options": [
+        "<p>Road widening rarely improves mobility because commuters inevitably abandon public transport and businesses always move farther from city centers.</p>",
+        "<p>The value of added road capacity depends on how travelers and firms respond over time; short-run speed gains alone cannot establish its lasting benefit.</p>",
+        "<p>Because congestion is chiefly a consequence of poor road pricing, cities should introduce tolls before considering any expansion of transport infrastructure.</p>",
+        "<p>Although wider roads attract new traffic, they should be judged primarily by whether the initial reduction in travel times offsets construction costs.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 10,
+      "solutionMarkdown": "**A** makes induced demand inevitable, contradicting the explicit geographic/pricing exception. **C** turns a conditional mention of pricing into a principal diagnosis and policy prescription. **D** incorrectly treats the initial speed gain as the primary evaluation criterion. **B** preserves the dynamic feedback and qualification."
+    },
+    {
+      "id": "VARC-20",
+      "section": 0,
+      "number": 20,
+      "type": "MCQ",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Select the best summary.</p><p>An archive&#x27;s omissions are not merely empty spaces awaiting future discoveries. What gets preserved depends on administrative routines, material durability, and judgments about whose activities merit documentation. Yet it would be a mistake to infer that every absence was intentionally engineered: a missing letter may have burned, been misfiled, or never existed. Historians therefore have to explain both the institutions that made some records more likely to survive and the limits of what can be concluded from silence. Treating an absence as proof of suppression is as careless as treating the surviving collection as a neutral portrait of the past.</p>",
+      "options": [
+        "<p>Since archives are shaped by institutional power, historians should presume deliberate suppression whenever records concerning marginalized groups are absent.</p>",
+        "<p>Archival gaps reflect both selective preservation and contingent loss, so historians must investigate the production of records without assigning unwarranted meaning to missing evidence.</p>",
+        "<p>The incompleteness of archives makes claims about historical institutions unreliable unless every missing document can be reconstructed independently.</p>",
+        "<p>Historians should prioritize surviving records over missing ones because the reasons for archival silence are usually impossible to establish.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 10,
+      "solutionMarkdown": "**A** infers intentional suppression from absence, which the paragraph expressly rejects. **C** makes historical inquiry impossible without exhaustive reconstruction, an unsupported extreme. **D** dismisses the evidentiary relevance of archival silence. **B** combines structural selection, contingent loss, and inferential restraint."
+    },
+    {
+      "id": "VARC-21",
+      "section": 0,
+      "number": 21,
+      "type": "TITA",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Four sentences form a coherent paragraph. Identify the odd one out.</p><p>1. A scientific model can be useful even when its assumptions are literally false, provided the simplification preserves the relationships relevant to a particular question.</p><p>2. The difficulty is that a simplification which works for forecasting average demand may fail when the same model is used to distribute scarce resources.</p><p>3. The earliest mathematical models of population growth were developed long before modern computing made large-scale simulation practical.</p><p>4. In the second setting, the model&#x27;s neglected differences among people can become the very differences on which a fair decision depends.</p><p>5. Thus, evaluating a model requires asking not only whether it predicts well, but also what decision its predictions are being asked to justify.</p><p>Answer: Enter 1, 2, 3, 4, or 5.</p>",
+      "options": [],
+      "answer": "3",
+      "match": "number",
+      "page": 11,
+      "solutionMarkdown": "Coherent order **1–2–4–5**: models simplify → different decision uses expose omitted heterogeneity → “the second setting” is resource allocation → evaluative conclusion. Sentence 3 shares the general subject of models but supplies a chronology of computing with no link to the normative argument."
+    },
+    {
+      "id": "VARC-22",
+      "section": 0,
+      "number": 22,
+      "type": "TITA",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Four sentences form a coherent paragraph. Identify the odd one out.</p><p>1. Restoring a wetland may reduce downstream flooding by slowing the movement of stormwater.</p><p>2. But the scale of that benefit depends on whether upstream land use continues to accelerate runoff into the restored area.</p><p>3. Wetlands also provide habitats for migratory birds, whose seasonal movements can connect ecosystems across national borders.</p><p>4. If new roads and paved surfaces send water into the wetland faster than it can absorb it, restoration alone may deliver little flood protection.</p><p>5. Flood-management plans must therefore consider the entire drainage basin rather than treating the restored wetland as an isolated engineering device.</p><p>Answer: Enter 1, 2, 3, 4, or 5.</p>",
+      "options": [],
+      "answer": "3",
+      "match": "number",
+      "page": 11,
+      "solutionMarkdown": "Coherent order **1–2–4–5**: restoration can slow floods → benefit depends on upstream land use → roads/paving exemplify the limiting mechanism → basin-wide conclusion. Sentence 3 discusses habitat and migration, relevant to wetlands but not the causal flood-management chain."
+    },
+    {
+      "id": "VARC-23",
+      "section": 0,
+      "number": 23,
+      "type": "TITA",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Arrange the four sentences into the most coherent paragraph.</p><p>1. That dependence becomes problematic when the indicator is treated as the goal rather than as a partial signal of progress toward it.</p><p>2. Institutions often select a measurable indicator because the underlying objective—such as good teaching or effective care—is difficult to observe directly.</p><p>3. Once that substitution has occurred, the institution can improve its reported performance by changing what it records, even if the underlying objective remains unmet.</p><p>4. Once rewards are attached to the indicator, however, participants have an incentive to optimize the recorded measure itself.</p><p>Answer: Enter a four-digit sequence.</p>",
+      "options": [],
+      "answer": "2413",
+      "match": "sequence",
+      "page": 11,
+      "solutionMarkdown": "**2** introduces the institution, objective, and indicator. **4** attaches incentives to “the indicator.” **1** calls that incentive-based optimization “that dependence,” distinguishing the measure from the objective. **3** then states how the institution can game reporting. Other sequences either use an undefined indicator or make “that dependence” refer to a weaker antecedent. Editorial revision: sentence 3 now begins “Once that substitution has occurred…”, explicitly referring back to the substitution described in sentence 1. The alternative **2431** would put the consequence before its explicit antecedent. A blind ambiguity check is still recommended."
+    },
+    {
+      "id": "VARC-24",
+      "section": 0,
+      "number": 24,
+      "type": "TITA",
+      "topic": "Verbal ability",
+      "context": null,
+      "html": "<p>Arrange the four sentences into the most coherent paragraph.</p><p>1. Only after these independent clocks were compared did researchers realize that the apparent simultaneity of the events depended on an earlier dating convention.</p><p>2. The eruption and the collapse of a nearby settlement had long been described as parts of a single catastrophe.</p><p>3. To test that account, one team dated volcanic deposits while another reconstructed the settlement&#x27;s chronology from timber samples.</p><p>4. The revised chronology did not establish what caused the settlement&#x27;s collapse, but it removed temporal coincidence as evidence for the volcanic explanation.</p><p>Answer: Enter a four-digit sequence.</p>",
+      "options": [],
+      "answer": "2314",
+      "match": "sequence",
+      "page": 11,
+      "solutionMarkdown": "**2** establishes the old catastrophe account; **3** describes the test of “that account”; **1** explains the discovery after independent chronologies were compared; **4** states the limited conclusion of the revision. “These independent clocks” requires 3, and “the revised chronology” requires the discovery in 1."
+    },
+    {
+      "id": "DILR-1",
+      "section": 1,
+      "number": 1,
+      "type": "TITA",
+      "topic": "Three-depot reserve allocation",
+      "context": "D1",
+      "html": "<p>What is the initial number of crates at depot A, x?</p>",
+      "options": [],
+      "answer": "16",
+      "match": "number",
+      "page": 13,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Format |\n|---|---|---|\n| Q1 | **16** | TITA |\n| Q2 | **A** | MCQ |\n| Q3 | **10** | TITA |\n| Q4 | **B** | MCQ |\n| Q5 | **13** | TITA |\n\n## Derivation\n\nEach day first apply the net deliveries minus demand, then the two sequential threshold transfers. The two observed balances jointly determine the starting allocation. A full enumeration of the 11 permitted integer values of x (8 through 18) finds **only x = 16** satisfies both: Day 2 closing A = 9 and Day 3 closing C = 11. The observations must be combined; neither is sufficient alone.\n\nFor x = 16, the initial balances are **(A,B,C)=(16,8,12)**. The actual ledger is:\n\n| Day | Balances after delivery/demand, before transfers (A,B,C) | First transfer | Second transfer | Closing balances (A,B,C) |\n|---|---|---|---|---|\n| 1 | (18,5,13) | A→B 3 | C→B 1 | (15,9,12) |\n| 2 | (12,13,9) | A→B 3 | B→C 2 | (9,14,11) |\n| 3 | (11,9,12) | B→A 2 | C→B 1 | (13,8,11) |\n| 4 | (8,11,8) | B→A 2 | C→B 1 | (10,10,7) |\n\n**Q1:** 16. The two observed closing balances eliminate all other integer starts.\n\n**Q2:** A. The first transfers are A→B, A→B, B→A, B→A. Option B wrongly evaluates Day 2 against the threshold after a transfer; C wrongly applies the Day 3 rule to a balance of 11 as if it met 12; D is incompatible with Day 1 A = 18 before transfers.\n\n**Q3:** 10. The final Day 4 balance at B is 10.\n\n**Q4:** B. Day 3 B has 9 after the first transfer, so C→B 1 occurs. A is false (Day 2 B→C 2); C is false (Day 1 B=9, C=12); D is false (Day 4 A=10, C=7).\n\n**Q5:** 13. Under the Day 3-only threshold change, Day 1 and Day 2 are unchanged. On Day 3 the pre-transfer balance is (11,9,12). With threshold 11, A→B 3 produces (8,12,12), then B→C 2 produces **(8,10,14)**. On Day 4, net delivery minus demand gives **(3,13,11)**; B→A 2 yields (5,11,11), and B→C 2 yields the final **(5,9,13)**. Therefore C=13. Notice that the change alters Day 4 transfer decisions as well; stopping the counterfactual calculation at Day 3 gives an incorrect answer."
+    },
+    {
+      "id": "DILR-2",
+      "section": 1,
+      "number": 2,
+      "type": "MCQ",
+      "topic": "Three-depot reserve allocation",
+      "context": "D1",
+      "html": "<p>Which is the correct sequence of the first transfer on Days 1 through 4?</p>",
+      "options": [
+        "<p>A→B, A→B, B→A, B→A</p>",
+        "<p>A→B, B→A, B→A, B→A</p>",
+        "<p>A→B, A→B, A→B, B→A</p>",
+        "<p>B→A, A→B, B→A, A→B</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 13,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Format |\n|---|---|---|\n| Q1 | **16** | TITA |\n| Q2 | **A** | MCQ |\n| Q3 | **10** | TITA |\n| Q4 | **B** | MCQ |\n| Q5 | **13** | TITA |\n\n## Derivation\n\nEach day first apply the net deliveries minus demand, then the two sequential threshold transfers. The two observed balances jointly determine the starting allocation. A full enumeration of the 11 permitted integer values of x (8 through 18) finds **only x = 16** satisfies both: Day 2 closing A = 9 and Day 3 closing C = 11. The observations must be combined; neither is sufficient alone.\n\nFor x = 16, the initial balances are **(A,B,C)=(16,8,12)**. The actual ledger is:\n\n| Day | Balances after delivery/demand, before transfers (A,B,C) | First transfer | Second transfer | Closing balances (A,B,C) |\n|---|---|---|---|---|\n| 1 | (18,5,13) | A→B 3 | C→B 1 | (15,9,12) |\n| 2 | (12,13,9) | A→B 3 | B→C 2 | (9,14,11) |\n| 3 | (11,9,12) | B→A 2 | C→B 1 | (13,8,11) |\n| 4 | (8,11,8) | B→A 2 | C→B 1 | (10,10,7) |\n\n**Q1:** 16. The two observed closing balances eliminate all other integer starts.\n\n**Q2:** A. The first transfers are A→B, A→B, B→A, B→A. Option B wrongly evaluates Day 2 against the threshold after a transfer; C wrongly applies the Day 3 rule to a balance of 11 as if it met 12; D is incompatible with Day 1 A = 18 before transfers.\n\n**Q3:** 10. The final Day 4 balance at B is 10.\n\n**Q4:** B. Day 3 B has 9 after the first transfer, so C→B 1 occurs. A is false (Day 2 B→C 2); C is false (Day 1 B=9, C=12); D is false (Day 4 A=10, C=7).\n\n**Q5:** 13. Under the Day 3-only threshold change, Day 1 and Day 2 are unchanged. On Day 3 the pre-transfer balance is (11,9,12). With threshold 11, A→B 3 produces (8,12,12), then B→C 2 produces **(8,10,14)**. On Day 4, net delivery minus demand gives **(3,13,11)**; B→A 2 yields (5,11,11), and B→C 2 yields the final **(5,9,13)**. Therefore C=13. Notice that the change alters Day 4 transfer decisions as well; stopping the counterfactual calculation at Day 3 gives an incorrect answer."
+    },
+    {
+      "id": "DILR-3",
+      "section": 1,
+      "number": 3,
+      "type": "TITA",
+      "topic": "Three-depot reserve allocation",
+      "context": "D1",
+      "html": "<p>How many crates are held at depot B at the end of Day 4?</p>",
+      "options": [],
+      "answer": "10",
+      "match": "number",
+      "page": 14,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Format |\n|---|---|---|\n| Q1 | **16** | TITA |\n| Q2 | **A** | MCQ |\n| Q3 | **10** | TITA |\n| Q4 | **B** | MCQ |\n| Q5 | **13** | TITA |\n\n## Derivation\n\nEach day first apply the net deliveries minus demand, then the two sequential threshold transfers. The two observed balances jointly determine the starting allocation. A full enumeration of the 11 permitted integer values of x (8 through 18) finds **only x = 16** satisfies both: Day 2 closing A = 9 and Day 3 closing C = 11. The observations must be combined; neither is sufficient alone.\n\nFor x = 16, the initial balances are **(A,B,C)=(16,8,12)**. The actual ledger is:\n\n| Day | Balances after delivery/demand, before transfers (A,B,C) | First transfer | Second transfer | Closing balances (A,B,C) |\n|---|---|---|---|---|\n| 1 | (18,5,13) | A→B 3 | C→B 1 | (15,9,12) |\n| 2 | (12,13,9) | A→B 3 | B→C 2 | (9,14,11) |\n| 3 | (11,9,12) | B→A 2 | C→B 1 | (13,8,11) |\n| 4 | (8,11,8) | B→A 2 | C→B 1 | (10,10,7) |\n\n**Q1:** 16. The two observed closing balances eliminate all other integer starts.\n\n**Q2:** A. The first transfers are A→B, A→B, B→A, B→A. Option B wrongly evaluates Day 2 against the threshold after a transfer; C wrongly applies the Day 3 rule to a balance of 11 as if it met 12; D is incompatible with Day 1 A = 18 before transfers.\n\n**Q3:** 10. The final Day 4 balance at B is 10.\n\n**Q4:** B. Day 3 B has 9 after the first transfer, so C→B 1 occurs. A is false (Day 2 B→C 2); C is false (Day 1 B=9, C=12); D is false (Day 4 A=10, C=7).\n\n**Q5:** 13. Under the Day 3-only threshold change, Day 1 and Day 2 are unchanged. On Day 3 the pre-transfer balance is (11,9,12). With threshold 11, A→B 3 produces (8,12,12), then B→C 2 produces **(8,10,14)**. On Day 4, net delivery minus demand gives **(3,13,11)**; B→A 2 yields (5,11,11), and B→C 2 yields the final **(5,9,13)**. Therefore C=13. Notice that the change alters Day 4 transfer decisions as well; stopping the counterfactual calculation at Day 3 gives an incorrect answer."
+    },
+    {
+      "id": "DILR-4",
+      "section": 1,
+      "number": 4,
+      "type": "MCQ",
+      "topic": "Three-depot reserve allocation",
+      "context": "D1",
+      "html": "<p>Consider the actual operation. Which of the following statements is correct?</p>",
+      "options": [
+        "<p>On Day 2, C sends one crate to B.</p>",
+        "<p>On Day 3, the second transfer is from C to B.</p>",
+        "<p>At the end of Day 1, B holds more crates than C.</p>",
+        "<p>At the end of Day 4, A holds fewer crates than C.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 14,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Format |\n|---|---|---|\n| Q1 | **16** | TITA |\n| Q2 | **A** | MCQ |\n| Q3 | **10** | TITA |\n| Q4 | **B** | MCQ |\n| Q5 | **13** | TITA |\n\n## Derivation\n\nEach day first apply the net deliveries minus demand, then the two sequential threshold transfers. The two observed balances jointly determine the starting allocation. A full enumeration of the 11 permitted integer values of x (8 through 18) finds **only x = 16** satisfies both: Day 2 closing A = 9 and Day 3 closing C = 11. The observations must be combined; neither is sufficient alone.\n\nFor x = 16, the initial balances are **(A,B,C)=(16,8,12)**. The actual ledger is:\n\n| Day | Balances after delivery/demand, before transfers (A,B,C) | First transfer | Second transfer | Closing balances (A,B,C) |\n|---|---|---|---|---|\n| 1 | (18,5,13) | A→B 3 | C→B 1 | (15,9,12) |\n| 2 | (12,13,9) | A→B 3 | B→C 2 | (9,14,11) |\n| 3 | (11,9,12) | B→A 2 | C→B 1 | (13,8,11) |\n| 4 | (8,11,8) | B→A 2 | C→B 1 | (10,10,7) |\n\n**Q1:** 16. The two observed closing balances eliminate all other integer starts.\n\n**Q2:** A. The first transfers are A→B, A→B, B→A, B→A. Option B wrongly evaluates Day 2 against the threshold after a transfer; C wrongly applies the Day 3 rule to a balance of 11 as if it met 12; D is incompatible with Day 1 A = 18 before transfers.\n\n**Q3:** 10. The final Day 4 balance at B is 10.\n\n**Q4:** B. Day 3 B has 9 after the first transfer, so C→B 1 occurs. A is false (Day 2 B→C 2); C is false (Day 1 B=9, C=12); D is false (Day 4 A=10, C=7).\n\n**Q5:** 13. Under the Day 3-only threshold change, Day 1 and Day 2 are unchanged. On Day 3 the pre-transfer balance is (11,9,12). With threshold 11, A→B 3 produces (8,12,12), then B→C 2 produces **(8,10,14)**. On Day 4, net delivery minus demand gives **(3,13,11)**; B→A 2 yields (5,11,11), and B→C 2 yields the final **(5,9,13)**. Therefore C=13. Notice that the change alters Day 4 transfer decisions as well; stopping the counterfactual calculation at Day 3 gives an incorrect answer."
+    },
+    {
+      "id": "DILR-5",
+      "section": 1,
+      "number": 5,
+      "type": "TITA",
+      "topic": "Three-depot reserve allocation",
+      "context": "D1",
+      "html": "<p>Suppose the first-transfer threshold on Day 3 only had been 11 crates instead of 12, while all other deliveries, demands, thresholds, and the initial inventory stayed the same. What would have been the number of crates at depot C at the end of Day 4?</p>",
+      "options": [],
+      "answer": "13",
+      "match": "number",
+      "page": 14,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Format |\n|---|---|---|\n| Q1 | **16** | TITA |\n| Q2 | **A** | MCQ |\n| Q3 | **10** | TITA |\n| Q4 | **B** | MCQ |\n| Q5 | **13** | TITA |\n\n## Derivation\n\nEach day first apply the net deliveries minus demand, then the two sequential threshold transfers. The two observed balances jointly determine the starting allocation. A full enumeration of the 11 permitted integer values of x (8 through 18) finds **only x = 16** satisfies both: Day 2 closing A = 9 and Day 3 closing C = 11. The observations must be combined; neither is sufficient alone.\n\nFor x = 16, the initial balances are **(A,B,C)=(16,8,12)**. The actual ledger is:\n\n| Day | Balances after delivery/demand, before transfers (A,B,C) | First transfer | Second transfer | Closing balances (A,B,C) |\n|---|---|---|---|---|\n| 1 | (18,5,13) | A→B 3 | C→B 1 | (15,9,12) |\n| 2 | (12,13,9) | A→B 3 | B→C 2 | (9,14,11) |\n| 3 | (11,9,12) | B→A 2 | C→B 1 | (13,8,11) |\n| 4 | (8,11,8) | B→A 2 | C→B 1 | (10,10,7) |\n\n**Q1:** 16. The two observed closing balances eliminate all other integer starts.\n\n**Q2:** A. The first transfers are A→B, A→B, B→A, B→A. Option B wrongly evaluates Day 2 against the threshold after a transfer; C wrongly applies the Day 3 rule to a balance of 11 as if it met 12; D is incompatible with Day 1 A = 18 before transfers.\n\n**Q3:** 10. The final Day 4 balance at B is 10.\n\n**Q4:** B. Day 3 B has 9 after the first transfer, so C→B 1 occurs. A is false (Day 2 B→C 2); C is false (Day 1 B=9, C=12); D is false (Day 4 A=10, C=7).\n\n**Q5:** 13. Under the Day 3-only threshold change, Day 1 and Day 2 are unchanged. On Day 3 the pre-transfer balance is (11,9,12). With threshold 11, A→B 3 produces (8,12,12), then B→C 2 produces **(8,10,14)**. On Day 4, net delivery minus demand gives **(3,13,11)**; B→A 2 yields (5,11,11), and B→C 2 yields the final **(5,9,13)**. Therefore C=13. Notice that the change alters Day 4 transfer decisions as well; stopping the counterfactual calculation at Day 3 gives an incorrect answer."
+    },
+    {
+      "id": "DILR-6",
+      "section": 1,
+      "number": 6,
+      "type": "TITA",
+      "topic": "Two-response directed network",
+      "context": "D2",
+      "html": "<p>What is the minimum possible time, in minutes, by which both teams can arrive in the original network?</p>",
+      "options": [],
+      "answer": "9",
+      "match": "number",
+      "page": 15,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Target difficulty |\n|---|---|---|\n| Q6 | **9** | Medium–Hard |\n| Q7 | **B** | Hard |\n| Q8 | **2** | Hard |\n| Q9 | **B** | Medium–Hard |\n| Q10 | **11** | Hard |\n\n## Key reasoning\n\nThe paths must satisfy *both* the one-way-road directions and the restriction against sharing a directed road. Merely finding a shortest path for each team independently is insufficient: A→B→D→E (9 minutes) and B→D→F (8 minutes) both use B→D, so that pair is **invalid**.\n\n### Q6 — 9 minutes\n\nTeam 1 cannot reach E in less than 9 minutes: two shortest routes are A→B→D→E = 3+3+3 = **9** and A→C→D→E = 4+2+3 = **9**. Team 2 cannot reach F in less than 8 minutes: B→D→F = 3+5 = **8**.\n\nThe combination **A→C→D→E (9)** and **B→D→F (8)** uses no common directed road, so both finish by minute **9**. The lower bound is achieved.\n\n### Q7 — B\n\nAt the optimal maximum arrival time of 9 minutes, two feasible assignments exist:\n\n1. Team 1 A→C→D→E = **9**; Team 2 B→D→F = **8**; sum **17**.\n2. Team 1 A→B→D→E = **9**; Team 2 B→C→D→F = **9**; sum **18**.\n\nThe second-level objective selects the first pair, **option B**. Option A violates road capacity (B→D shared); option C is feasible but loses on the sum tie-break; option D is feasible but Team 1 takes 10 minutes, so it loses on the primary objective.\n\n### Q8 — 2\n\nA feasible pair with both arrival times at most 9 must use one of Team 1's two 9-minute paths and one of Team 2's two paths of at most 9 minutes:\n\n- Team 1: A→B→D→E (9), A→C→D→E (9).\n- Team 2: B→D→F (8), B→C→D→F (9).\n\nThere are four raw combinations. The pairs using **B→D twice** or **C→D twice** are invalid. The two remaining combinations are those listed in Q7. **Answer: 2.**\n\n### Q9 — B\n\nClosing D→E removes both of Team 1's 9-minute paths. The fastest remaining Team 1 route is A→C→E = 4+6 = **10**. Team 2 can still use B→D→F = **8**, with no shared road. The optimal maximum time is therefore **10**, and the sum is **18**. **Option B**.\n\nA is impossible because Team 1 now needs at least 10 minutes. C is inferior to a feasible 10-minute Team 1 route. D is impossible because the minimum sum is 18.\n\n### Q10 — 11 minutes\n\nWith D→E and D→F both closed, Team 1 can reach E in 10 minutes by A→C→E. Team 2's fastest remaining route to F is **B→C→F = 2+9 = 11** or **B→E→F = 8+3 = 11**. Either can be paired with A→C→E without sharing a directed road. Both teams therefore finish by minute **11**. A finish before minute 11 is impossible because Team 2 has no route to F shorter than 11 once D→F is closed."
+    },
+    {
+      "id": "DILR-7",
+      "section": 1,
+      "number": 7,
+      "type": "MCQ",
+      "topic": "Two-response directed network",
+      "context": "D2",
+      "html": "<p>Under the two-level dispatch objective, which ordered pair of routes is optimal in the original network? The first route is Team 1&#x27;s; the second is Team 2&#x27;s.</p>",
+      "options": [
+        "<p>A→B→D→E ; B→D→F</p>",
+        "<p>A→C→D→E ; B→D→F</p>",
+        "<p>A→B→D→E ; B→C→D→F</p>",
+        "<p>A→C→E ; B→D→F</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 15,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Target difficulty |\n|---|---|---|\n| Q6 | **9** | Medium–Hard |\n| Q7 | **B** | Hard |\n| Q8 | **2** | Hard |\n| Q9 | **B** | Medium–Hard |\n| Q10 | **11** | Hard |\n\n## Key reasoning\n\nThe paths must satisfy *both* the one-way-road directions and the restriction against sharing a directed road. Merely finding a shortest path for each team independently is insufficient: A→B→D→E (9 minutes) and B→D→F (8 minutes) both use B→D, so that pair is **invalid**.\n\n### Q6 — 9 minutes\n\nTeam 1 cannot reach E in less than 9 minutes: two shortest routes are A→B→D→E = 3+3+3 = **9** and A→C→D→E = 4+2+3 = **9**. Team 2 cannot reach F in less than 8 minutes: B→D→F = 3+5 = **8**.\n\nThe combination **A→C→D→E (9)** and **B→D→F (8)** uses no common directed road, so both finish by minute **9**. The lower bound is achieved.\n\n### Q7 — B\n\nAt the optimal maximum arrival time of 9 minutes, two feasible assignments exist:\n\n1. Team 1 A→C→D→E = **9**; Team 2 B→D→F = **8**; sum **17**.\n2. Team 1 A→B→D→E = **9**; Team 2 B→C→D→F = **9**; sum **18**.\n\nThe second-level objective selects the first pair, **option B**. Option A violates road capacity (B→D shared); option C is feasible but loses on the sum tie-break; option D is feasible but Team 1 takes 10 minutes, so it loses on the primary objective.\n\n### Q8 — 2\n\nA feasible pair with both arrival times at most 9 must use one of Team 1's two 9-minute paths and one of Team 2's two paths of at most 9 minutes:\n\n- Team 1: A→B→D→E (9), A→C→D→E (9).\n- Team 2: B→D→F (8), B→C→D→F (9).\n\nThere are four raw combinations. The pairs using **B→D twice** or **C→D twice** are invalid. The two remaining combinations are those listed in Q7. **Answer: 2.**\n\n### Q9 — B\n\nClosing D→E removes both of Team 1's 9-minute paths. The fastest remaining Team 1 route is A→C→E = 4+6 = **10**. Team 2 can still use B→D→F = **8**, with no shared road. The optimal maximum time is therefore **10**, and the sum is **18**. **Option B**.\n\nA is impossible because Team 1 now needs at least 10 minutes. C is inferior to a feasible 10-minute Team 1 route. D is impossible because the minimum sum is 18.\n\n### Q10 — 11 minutes\n\nWith D→E and D→F both closed, Team 1 can reach E in 10 minutes by A→C→E. Team 2's fastest remaining route to F is **B→C→F = 2+9 = 11** or **B→E→F = 8+3 = 11**. Either can be paired with A→C→E without sharing a directed road. Both teams therefore finish by minute **11**. A finish before minute 11 is impossible because Team 2 has no route to F shorter than 11 once D→F is closed."
+    },
+    {
+      "id": "DILR-8",
+      "section": 1,
+      "number": 8,
+      "type": "TITA",
+      "topic": "Two-response directed network",
+      "context": "D2",
+      "html": "<p>How many distinct ordered pairs of feasible simple paths allow both teams to arrive within 9 minutes in the original network? Two route assignments count as different if either team&#x27;s path differs.</p>",
+      "options": [],
+      "answer": "2",
+      "match": "number",
+      "page": 15,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Target difficulty |\n|---|---|---|\n| Q6 | **9** | Medium–Hard |\n| Q7 | **B** | Hard |\n| Q8 | **2** | Hard |\n| Q9 | **B** | Medium–Hard |\n| Q10 | **11** | Hard |\n\n## Key reasoning\n\nThe paths must satisfy *both* the one-way-road directions and the restriction against sharing a directed road. Merely finding a shortest path for each team independently is insufficient: A→B→D→E (9 minutes) and B→D→F (8 minutes) both use B→D, so that pair is **invalid**.\n\n### Q6 — 9 minutes\n\nTeam 1 cannot reach E in less than 9 minutes: two shortest routes are A→B→D→E = 3+3+3 = **9** and A→C→D→E = 4+2+3 = **9**. Team 2 cannot reach F in less than 8 minutes: B→D→F = 3+5 = **8**.\n\nThe combination **A→C→D→E (9)** and **B→D→F (8)** uses no common directed road, so both finish by minute **9**. The lower bound is achieved.\n\n### Q7 — B\n\nAt the optimal maximum arrival time of 9 minutes, two feasible assignments exist:\n\n1. Team 1 A→C→D→E = **9**; Team 2 B→D→F = **8**; sum **17**.\n2. Team 1 A→B→D→E = **9**; Team 2 B→C→D→F = **9**; sum **18**.\n\nThe second-level objective selects the first pair, **option B**. Option A violates road capacity (B→D shared); option C is feasible but loses on the sum tie-break; option D is feasible but Team 1 takes 10 minutes, so it loses on the primary objective.\n\n### Q8 — 2\n\nA feasible pair with both arrival times at most 9 must use one of Team 1's two 9-minute paths and one of Team 2's two paths of at most 9 minutes:\n\n- Team 1: A→B→D→E (9), A→C→D→E (9).\n- Team 2: B→D→F (8), B→C→D→F (9).\n\nThere are four raw combinations. The pairs using **B→D twice** or **C→D twice** are invalid. The two remaining combinations are those listed in Q7. **Answer: 2.**\n\n### Q9 — B\n\nClosing D→E removes both of Team 1's 9-minute paths. The fastest remaining Team 1 route is A→C→E = 4+6 = **10**. Team 2 can still use B→D→F = **8**, with no shared road. The optimal maximum time is therefore **10**, and the sum is **18**. **Option B**.\n\nA is impossible because Team 1 now needs at least 10 minutes. C is inferior to a feasible 10-minute Team 1 route. D is impossible because the minimum sum is 18.\n\n### Q10 — 11 minutes\n\nWith D→E and D→F both closed, Team 1 can reach E in 10 minutes by A→C→E. Team 2's fastest remaining route to F is **B→C→F = 2+9 = 11** or **B→E→F = 8+3 = 11**. Either can be paired with A→C→E without sharing a directed road. Both teams therefore finish by minute **11**. A finish before minute 11 is impossible because Team 2 has no route to F shorter than 11 once D→F is closed."
+    },
+    {
+      "id": "DILR-9",
+      "section": 1,
+      "number": 9,
+      "type": "MCQ",
+      "topic": "Two-response directed network",
+      "context": "D2",
+      "html": "<p>The road D→E is closed. Under the same two-level dispatch objective, which statement about the new optimal dispatch is correct?</p>",
+      "options": [
+        "<p>Both teams arrive in at most 9 minutes.</p>",
+        "<p>Team 1 takes 10 minutes and Team 2 takes 8 minutes.</p>",
+        "<p>Team 1 takes 11 minutes and Team 2 takes 8 minutes.</p>",
+        "<p>The minimum possible sum of arrival times is 17 minutes.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 15,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Target difficulty |\n|---|---|---|\n| Q6 | **9** | Medium–Hard |\n| Q7 | **B** | Hard |\n| Q8 | **2** | Hard |\n| Q9 | **B** | Medium–Hard |\n| Q10 | **11** | Hard |\n\n## Key reasoning\n\nThe paths must satisfy *both* the one-way-road directions and the restriction against sharing a directed road. Merely finding a shortest path for each team independently is insufficient: A→B→D→E (9 minutes) and B→D→F (8 minutes) both use B→D, so that pair is **invalid**.\n\n### Q6 — 9 minutes\n\nTeam 1 cannot reach E in less than 9 minutes: two shortest routes are A→B→D→E = 3+3+3 = **9** and A→C→D→E = 4+2+3 = **9**. Team 2 cannot reach F in less than 8 minutes: B→D→F = 3+5 = **8**.\n\nThe combination **A→C→D→E (9)** and **B→D→F (8)** uses no common directed road, so both finish by minute **9**. The lower bound is achieved.\n\n### Q7 — B\n\nAt the optimal maximum arrival time of 9 minutes, two feasible assignments exist:\n\n1. Team 1 A→C→D→E = **9**; Team 2 B→D→F = **8**; sum **17**.\n2. Team 1 A→B→D→E = **9**; Team 2 B→C→D→F = **9**; sum **18**.\n\nThe second-level objective selects the first pair, **option B**. Option A violates road capacity (B→D shared); option C is feasible but loses on the sum tie-break; option D is feasible but Team 1 takes 10 minutes, so it loses on the primary objective.\n\n### Q8 — 2\n\nA feasible pair with both arrival times at most 9 must use one of Team 1's two 9-minute paths and one of Team 2's two paths of at most 9 minutes:\n\n- Team 1: A→B→D→E (9), A→C→D→E (9).\n- Team 2: B→D→F (8), B→C→D→F (9).\n\nThere are four raw combinations. The pairs using **B→D twice** or **C→D twice** are invalid. The two remaining combinations are those listed in Q7. **Answer: 2.**\n\n### Q9 — B\n\nClosing D→E removes both of Team 1's 9-minute paths. The fastest remaining Team 1 route is A→C→E = 4+6 = **10**. Team 2 can still use B→D→F = **8**, with no shared road. The optimal maximum time is therefore **10**, and the sum is **18**. **Option B**.\n\nA is impossible because Team 1 now needs at least 10 minutes. C is inferior to a feasible 10-minute Team 1 route. D is impossible because the minimum sum is 18.\n\n### Q10 — 11 minutes\n\nWith D→E and D→F both closed, Team 1 can reach E in 10 minutes by A→C→E. Team 2's fastest remaining route to F is **B→C→F = 2+9 = 11** or **B→E→F = 8+3 = 11**. Either can be paired with A→C→E without sharing a directed road. Both teams therefore finish by minute **11**. A finish before minute 11 is impossible because Team 2 has no route to F shorter than 11 once D→F is closed."
+    },
+    {
+      "id": "DILR-10",
+      "section": 1,
+      "number": 10,
+      "type": "TITA",
+      "topic": "Two-response directed network",
+      "context": "D2",
+      "html": "<p>Suppose both D→E and D→F are closed simultaneously. What is the minimum possible time, in minutes, by which both teams can arrive?</p>",
+      "options": [],
+      "answer": "11",
+      "match": "number",
+      "page": 15,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Target difficulty |\n|---|---|---|\n| Q6 | **9** | Medium–Hard |\n| Q7 | **B** | Hard |\n| Q8 | **2** | Hard |\n| Q9 | **B** | Medium–Hard |\n| Q10 | **11** | Hard |\n\n## Key reasoning\n\nThe paths must satisfy *both* the one-way-road directions and the restriction against sharing a directed road. Merely finding a shortest path for each team independently is insufficient: A→B→D→E (9 minutes) and B→D→F (8 minutes) both use B→D, so that pair is **invalid**.\n\n### Q6 — 9 minutes\n\nTeam 1 cannot reach E in less than 9 minutes: two shortest routes are A→B→D→E = 3+3+3 = **9** and A→C→D→E = 4+2+3 = **9**. Team 2 cannot reach F in less than 8 minutes: B→D→F = 3+5 = **8**.\n\nThe combination **A→C→D→E (9)** and **B→D→F (8)** uses no common directed road, so both finish by minute **9**. The lower bound is achieved.\n\n### Q7 — B\n\nAt the optimal maximum arrival time of 9 minutes, two feasible assignments exist:\n\n1. Team 1 A→C→D→E = **9**; Team 2 B→D→F = **8**; sum **17**.\n2. Team 1 A→B→D→E = **9**; Team 2 B→C→D→F = **9**; sum **18**.\n\nThe second-level objective selects the first pair, **option B**. Option A violates road capacity (B→D shared); option C is feasible but loses on the sum tie-break; option D is feasible but Team 1 takes 10 minutes, so it loses on the primary objective.\n\n### Q8 — 2\n\nA feasible pair with both arrival times at most 9 must use one of Team 1's two 9-minute paths and one of Team 2's two paths of at most 9 minutes:\n\n- Team 1: A→B→D→E (9), A→C→D→E (9).\n- Team 2: B→D→F (8), B→C→D→F (9).\n\nThere are four raw combinations. The pairs using **B→D twice** or **C→D twice** are invalid. The two remaining combinations are those listed in Q7. **Answer: 2.**\n\n### Q9 — B\n\nClosing D→E removes both of Team 1's 9-minute paths. The fastest remaining Team 1 route is A→C→E = 4+6 = **10**. Team 2 can still use B→D→F = **8**, with no shared road. The optimal maximum time is therefore **10**, and the sum is **18**. **Option B**.\n\nA is impossible because Team 1 now needs at least 10 minutes. C is inferior to a feasible 10-minute Team 1 route. D is impossible because the minimum sum is 18.\n\n### Q10 — 11 minutes\n\nWith D→E and D→F both closed, Team 1 can reach E in 10 minutes by A→C→E. Team 2's fastest remaining route to F is **B→C→F = 2+9 = 11** or **B→E→F = 8+3 = 11**. Either can be paired with A→C→E without sharing a directed road. Both teams therefore finish by minute **11**. A finish before minute 11 is impossible because Team 2 has no route to F shorter than 11 once D→F is closed."
+    },
+    {
+      "id": "DILR-11",
+      "section": 1,
+      "number": 11,
+      "type": "TITA",
+      "topic": "Three-plant sales and production reconciliation",
+      "context": "D3",
+      "html": "<p>How many units did plant C sell in February?</p>",
+      "options": [],
+      "answer": "57",
+      "match": "number",
+      "page": 16,
+      "solutionMarkdown": "## Reconstructing the sales table\n\nLet the nine sales cells, row by row, be a,b,c; d,e,f; g,h,i. The row and column totals give six equations (one redundant). The four additional conditions are:\n\n- 2b = 3a\n- d − e = 10\n- i − f = 10\n- h − d = 2\n\nUsing A's row total: a+b=80, hence a=32 and b=48.\n\nLet B's January sales be d. Then B's February sales are d−10, and C's February sales are d+2. February's column total gives\n\n48 + (d−10) + (d+2) = 150, so **d=55**. Therefore B February =45 and C February =57.\n\nJanuary's total gives C January =150−32−55=63. C's quarter total gives C March =190−63−57=70. Therefore B March =60, consistent with B's quarter total (55+45+60=160).\n\nThe unique reconstructed table is:\n\n| Plant | Jan sales | Feb sales | Mar sales | Quarter sales |\n|---|---:|---:|---:|---:|\n| A | 32 | 48 | 40 | 120 |\n| B | 55 | 45 | 60 | 160 |\n| C | 63 | 57 | 70 | 190 |\n| **Total** | **150** | **150** | **170** | **470** |\n\n## Production and inventory ledger\n\nProduction equals sales plus the specified production-minus-sales difference. End-of-month inventory equals beginning inventory plus that difference.\n\n| Plant | Jan production | Feb production | Mar production | Opening stock | End Jan | End Feb | End Mar |\n|---|---:|---:|---:|---:|---:|---:|---:|\n| A | 38 | 44 | 48 | 10 | 16 | 12 | 20 |\n| B | 59 | 50 | 57 | 15 | 19 | 24 | 21 |\n| C | 63 | 51 | 75 | 12 | 12 | 6 | 11 |\n| **Total** | **160** | **145** | **180** | **37** | **47** | **42** | **52** |\n\nInventory conservation: initial 37 + total production (160+145+180=485) − total sales 470 = final 52.\n\n### Q11 — **57** [TITA]\n\nThe February column and the two linked B/C conditions give 48+(d−10)+(d+2)=150, so d=55 and C February = d+2 = **57**.\n\n**Difficulty:** Medium–Hard. Requires reconstruction across row, column and relational constraints.\n\n### Q12 — **B. 3 : 2** [MCQ]\n\nC's March sales are 70 and its production-minus-sales difference is +5, so C's March production =75. B's February sales are 45 and its difference is +5, so B's February production =50. The ratio 75:50 reduces to **3:2**.\n\n- A (7:5) confuses a related pair of sales figures.\n- C (5:3) overstates the ratio.\n- D (8:5) is not the production ratio.\n\n**Difficulty:** Medium–Hard. Reconstruct sales, apply separate production adjustments, reduce ratio.\n\n### Q13 — **B** [MCQ]\n\n- **A false:** February production was 145, not 150; C's February ending inventory was indeed 6.\n- **B true:** B's end-February inventory =15+4+5=24; March production =48+57+75=180.\n- **C false:** A's end-March inventory =10+6−4+8=20, not 18; January production was 160.\n- **D false:** C's quarter sales 190 exceed B's 160, but C's March production 75 exceeds B's 57, rather than being lower.\n\n**Difficulty:** Hard. Cross-checks independent production and inventory claims against the full reconstruction.\n\n### Q14 — **11** [TITA]\n\nAt the end of February, C has 6 units. C produces 75 units in March, so its maximum March sales without borrowing or transferring inventory are 6+75=81. Its original March sales were 70; it can accept at most **81−70=11** additional sales. B's sales decrease by 11, so B's inventory increases and cannot be the binding constraint. A is unchanged. Thus the maximum is **11**.\n\n**Difficulty:** Hard. Counterfactual allocation with a binding inventory constraint."
+    },
+    {
+      "id": "DILR-12",
+      "section": 1,
+      "number": 12,
+      "type": "MCQ",
+      "topic": "Three-plant sales and production reconciliation",
+      "context": "D3",
+      "html": "<p>What is the ratio of plant C&#x27;s March production to plant B&#x27;s February production?</p>",
+      "options": [
+        "<p>7 : 5</p>",
+        "<p>3 : 2</p>",
+        "<p>5 : 3</p>",
+        "<p>8 : 5</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 16,
+      "solutionMarkdown": "## Reconstructing the sales table\n\nLet the nine sales cells, row by row, be a,b,c; d,e,f; g,h,i. The row and column totals give six equations (one redundant). The four additional conditions are:\n\n- 2b = 3a\n- d − e = 10\n- i − f = 10\n- h − d = 2\n\nUsing A's row total: a+b=80, hence a=32 and b=48.\n\nLet B's January sales be d. Then B's February sales are d−10, and C's February sales are d+2. February's column total gives\n\n48 + (d−10) + (d+2) = 150, so **d=55**. Therefore B February =45 and C February =57.\n\nJanuary's total gives C January =150−32−55=63. C's quarter total gives C March =190−63−57=70. Therefore B March =60, consistent with B's quarter total (55+45+60=160).\n\nThe unique reconstructed table is:\n\n| Plant | Jan sales | Feb sales | Mar sales | Quarter sales |\n|---|---:|---:|---:|---:|\n| A | 32 | 48 | 40 | 120 |\n| B | 55 | 45 | 60 | 160 |\n| C | 63 | 57 | 70 | 190 |\n| **Total** | **150** | **150** | **170** | **470** |\n\n## Production and inventory ledger\n\nProduction equals sales plus the specified production-minus-sales difference. End-of-month inventory equals beginning inventory plus that difference.\n\n| Plant | Jan production | Feb production | Mar production | Opening stock | End Jan | End Feb | End Mar |\n|---|---:|---:|---:|---:|---:|---:|---:|\n| A | 38 | 44 | 48 | 10 | 16 | 12 | 20 |\n| B | 59 | 50 | 57 | 15 | 19 | 24 | 21 |\n| C | 63 | 51 | 75 | 12 | 12 | 6 | 11 |\n| **Total** | **160** | **145** | **180** | **37** | **47** | **42** | **52** |\n\nInventory conservation: initial 37 + total production (160+145+180=485) − total sales 470 = final 52.\n\n### Q11 — **57** [TITA]\n\nThe February column and the two linked B/C conditions give 48+(d−10)+(d+2)=150, so d=55 and C February = d+2 = **57**.\n\n**Difficulty:** Medium–Hard. Requires reconstruction across row, column and relational constraints.\n\n### Q12 — **B. 3 : 2** [MCQ]\n\nC's March sales are 70 and its production-minus-sales difference is +5, so C's March production =75. B's February sales are 45 and its difference is +5, so B's February production =50. The ratio 75:50 reduces to **3:2**.\n\n- A (7:5) confuses a related pair of sales figures.\n- C (5:3) overstates the ratio.\n- D (8:5) is not the production ratio.\n\n**Difficulty:** Medium–Hard. Reconstruct sales, apply separate production adjustments, reduce ratio.\n\n### Q13 — **B** [MCQ]\n\n- **A false:** February production was 145, not 150; C's February ending inventory was indeed 6.\n- **B true:** B's end-February inventory =15+4+5=24; March production =48+57+75=180.\n- **C false:** A's end-March inventory =10+6−4+8=20, not 18; January production was 160.\n- **D false:** C's quarter sales 190 exceed B's 160, but C's March production 75 exceeds B's 57, rather than being lower.\n\n**Difficulty:** Hard. Cross-checks independent production and inventory claims against the full reconstruction.\n\n### Q14 — **11** [TITA]\n\nAt the end of February, C has 6 units. C produces 75 units in March, so its maximum March sales without borrowing or transferring inventory are 6+75=81. Its original March sales were 70; it can accept at most **81−70=11** additional sales. B's sales decrease by 11, so B's inventory increases and cannot be the binding constraint. A is unchanged. Thus the maximum is **11**.\n\n**Difficulty:** Hard. Counterfactual allocation with a binding inventory constraint."
+    },
+    {
+      "id": "DILR-13",
+      "section": 1,
+      "number": 13,
+      "type": "MCQ",
+      "topic": "Three-plant sales and production reconciliation",
+      "context": "D3",
+      "html": "<p>Which of the following statements is correct?</p>",
+      "options": [
+        "<p>Total February production was 150 units, and plant C ended February with 6 units in inventory.</p>",
+        "<p>Plant B ended February with 24 units in inventory, and total March production was 180 units.</p>",
+        "<p>Plant A ended March with 18 units in inventory, and total January production was 160 units.</p>",
+        "<p>Plant C sold more units than plant B over the quarter, but plant C produced fewer units than plant B in March.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 16,
+      "solutionMarkdown": "## Reconstructing the sales table\n\nLet the nine sales cells, row by row, be a,b,c; d,e,f; g,h,i. The row and column totals give six equations (one redundant). The four additional conditions are:\n\n- 2b = 3a\n- d − e = 10\n- i − f = 10\n- h − d = 2\n\nUsing A's row total: a+b=80, hence a=32 and b=48.\n\nLet B's January sales be d. Then B's February sales are d−10, and C's February sales are d+2. February's column total gives\n\n48 + (d−10) + (d+2) = 150, so **d=55**. Therefore B February =45 and C February =57.\n\nJanuary's total gives C January =150−32−55=63. C's quarter total gives C March =190−63−57=70. Therefore B March =60, consistent with B's quarter total (55+45+60=160).\n\nThe unique reconstructed table is:\n\n| Plant | Jan sales | Feb sales | Mar sales | Quarter sales |\n|---|---:|---:|---:|---:|\n| A | 32 | 48 | 40 | 120 |\n| B | 55 | 45 | 60 | 160 |\n| C | 63 | 57 | 70 | 190 |\n| **Total** | **150** | **150** | **170** | **470** |\n\n## Production and inventory ledger\n\nProduction equals sales plus the specified production-minus-sales difference. End-of-month inventory equals beginning inventory plus that difference.\n\n| Plant | Jan production | Feb production | Mar production | Opening stock | End Jan | End Feb | End Mar |\n|---|---:|---:|---:|---:|---:|---:|---:|\n| A | 38 | 44 | 48 | 10 | 16 | 12 | 20 |\n| B | 59 | 50 | 57 | 15 | 19 | 24 | 21 |\n| C | 63 | 51 | 75 | 12 | 12 | 6 | 11 |\n| **Total** | **160** | **145** | **180** | **37** | **47** | **42** | **52** |\n\nInventory conservation: initial 37 + total production (160+145+180=485) − total sales 470 = final 52.\n\n### Q11 — **57** [TITA]\n\nThe February column and the two linked B/C conditions give 48+(d−10)+(d+2)=150, so d=55 and C February = d+2 = **57**.\n\n**Difficulty:** Medium–Hard. Requires reconstruction across row, column and relational constraints.\n\n### Q12 — **B. 3 : 2** [MCQ]\n\nC's March sales are 70 and its production-minus-sales difference is +5, so C's March production =75. B's February sales are 45 and its difference is +5, so B's February production =50. The ratio 75:50 reduces to **3:2**.\n\n- A (7:5) confuses a related pair of sales figures.\n- C (5:3) overstates the ratio.\n- D (8:5) is not the production ratio.\n\n**Difficulty:** Medium–Hard. Reconstruct sales, apply separate production adjustments, reduce ratio.\n\n### Q13 — **B** [MCQ]\n\n- **A false:** February production was 145, not 150; C's February ending inventory was indeed 6.\n- **B true:** B's end-February inventory =15+4+5=24; March production =48+57+75=180.\n- **C false:** A's end-March inventory =10+6−4+8=20, not 18; January production was 160.\n- **D false:** C's quarter sales 190 exceed B's 160, but C's March production 75 exceeds B's 57, rather than being lower.\n\n**Difficulty:** Hard. Cross-checks independent production and inventory claims against the full reconstruction.\n\n### Q14 — **11** [TITA]\n\nAt the end of February, C has 6 units. C produces 75 units in March, so its maximum March sales without borrowing or transferring inventory are 6+75=81. Its original March sales were 70; it can accept at most **81−70=11** additional sales. B's sales decrease by 11, so B's inventory increases and cannot be the binding constraint. A is unchanged. Thus the maximum is **11**.\n\n**Difficulty:** Hard. Counterfactual allocation with a binding inventory constraint."
+    },
+    {
+      "id": "DILR-14",
+      "section": 1,
+      "number": 14,
+      "type": "TITA",
+      "topic": "Three-plant sales and production reconciliation",
+      "context": "D3",
+      "html": "<p>A new March-only order-allocation policy allows some of plant B&#x27;s March sales to be reassigned to plant C. For every unit reassigned, B sells one fewer unit and C sells one more. March production at each plant remains fixed at its original value, and January–February operations remain unchanged. No interplant inventory transfers are allowed.</p><p>What is the maximum whole number of units that can be reassigned from B to C without any plant ending March with negative inventory?</p>",
+      "options": [],
+      "answer": "11",
+      "match": "number",
+      "page": 16,
+      "solutionMarkdown": "## Reconstructing the sales table\n\nLet the nine sales cells, row by row, be a,b,c; d,e,f; g,h,i. The row and column totals give six equations (one redundant). The four additional conditions are:\n\n- 2b = 3a\n- d − e = 10\n- i − f = 10\n- h − d = 2\n\nUsing A's row total: a+b=80, hence a=32 and b=48.\n\nLet B's January sales be d. Then B's February sales are d−10, and C's February sales are d+2. February's column total gives\n\n48 + (d−10) + (d+2) = 150, so **d=55**. Therefore B February =45 and C February =57.\n\nJanuary's total gives C January =150−32−55=63. C's quarter total gives C March =190−63−57=70. Therefore B March =60, consistent with B's quarter total (55+45+60=160).\n\nThe unique reconstructed table is:\n\n| Plant | Jan sales | Feb sales | Mar sales | Quarter sales |\n|---|---:|---:|---:|---:|\n| A | 32 | 48 | 40 | 120 |\n| B | 55 | 45 | 60 | 160 |\n| C | 63 | 57 | 70 | 190 |\n| **Total** | **150** | **150** | **170** | **470** |\n\n## Production and inventory ledger\n\nProduction equals sales plus the specified production-minus-sales difference. End-of-month inventory equals beginning inventory plus that difference.\n\n| Plant | Jan production | Feb production | Mar production | Opening stock | End Jan | End Feb | End Mar |\n|---|---:|---:|---:|---:|---:|---:|---:|\n| A | 38 | 44 | 48 | 10 | 16 | 12 | 20 |\n| B | 59 | 50 | 57 | 15 | 19 | 24 | 21 |\n| C | 63 | 51 | 75 | 12 | 12 | 6 | 11 |\n| **Total** | **160** | **145** | **180** | **37** | **47** | **42** | **52** |\n\nInventory conservation: initial 37 + total production (160+145+180=485) − total sales 470 = final 52.\n\n### Q11 — **57** [TITA]\n\nThe February column and the two linked B/C conditions give 48+(d−10)+(d+2)=150, so d=55 and C February = d+2 = **57**.\n\n**Difficulty:** Medium–Hard. Requires reconstruction across row, column and relational constraints.\n\n### Q12 — **B. 3 : 2** [MCQ]\n\nC's March sales are 70 and its production-minus-sales difference is +5, so C's March production =75. B's February sales are 45 and its difference is +5, so B's February production =50. The ratio 75:50 reduces to **3:2**.\n\n- A (7:5) confuses a related pair of sales figures.\n- C (5:3) overstates the ratio.\n- D (8:5) is not the production ratio.\n\n**Difficulty:** Medium–Hard. Reconstruct sales, apply separate production adjustments, reduce ratio.\n\n### Q13 — **B** [MCQ]\n\n- **A false:** February production was 145, not 150; C's February ending inventory was indeed 6.\n- **B true:** B's end-February inventory =15+4+5=24; March production =48+57+75=180.\n- **C false:** A's end-March inventory =10+6−4+8=20, not 18; January production was 160.\n- **D false:** C's quarter sales 190 exceed B's 160, but C's March production 75 exceeds B's 57, rather than being lower.\n\n**Difficulty:** Hard. Cross-checks independent production and inventory claims against the full reconstruction.\n\n### Q14 — **11** [TITA]\n\nAt the end of February, C has 6 units. C produces 75 units in March, so its maximum March sales without borrowing or transferring inventory are 6+75=81. Its original March sales were 70; it can accept at most **81−70=11** additional sales. B's sales decrease by 11, so B's inventory increases and cannot be the binding constraint. A is unchanged. Thus the maximum is **11**.\n\n**Difficulty:** Hard. Counterfactual allocation with a binding inventory constraint."
+    },
+    {
+      "id": "DILR-15",
+      "section": 1,
+      "number": 15,
+      "type": "MCQ",
+      "topic": "Conditional scheduling and rotating supervisors",
+      "context": "D4",
+      "html": "<p>Which of the following is the chronological order of the six workshops?</p>",
+      "options": [
+        "<p>D F B E A C</p>",
+        "<p>D F B A E C</p>",
+        "<p>F D B E A C</p>",
+        "<p>D F E B A C</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 17,
+      "solutionMarkdown": "## Answers\n\n| Question | Answer | Editorial difficulty |\n|---|---|---|\n| Q15 | **A — DFBEAC** | Hard |\n| Q16 | **B — A and F** | Medium–Hard |\n| Q17 | **2** | Hard |\n| Q18 | **2** | Hard |\n\n## Original schedule\n\n| Slot | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Workshop | D | F | B | E | A | C |\n| Supervisor | X | Y | Z | X | Y | Z |\n\n**Check all conditions:** A (slot 5) precedes C (6); B (3) is exactly two slots after D (1); E (4) is adjacent to A (5); because C (6) is after B (3), F (2) precedes A (5); A and F differ by three slots; C (6) and D (1) are not adjacent.\n\n### Q15 — Reconstructing the order\n\nA compact case-based strategy starts with the distance-two D–B pair. Its possible slot pairs are (1,3), (2,4), (3,5) and (4,6). For each, place the adjacent A–E pair, retaining A before C and the three-slot separation of A and F. Then test the conditional C-after-B ⇒ F-before-A and nonadjacency of C and D. The only surviving order is **D F B E A C**, corresponding to **option A**.\n\nFor a reproducible exhaustive check, the enumerator at the end of this document tests all 720 permutations. Only one satisfies the six original conditions. This is a finite exhaustive proof, not a statistical sample.\n\n### Q16 — Rotation is determined by slot\n\nSupervisor Y covers slots 2 and 5. In the original schedule these are **F** and **A**. Thus option **B** is correct. The other options fail because their workshops occupy different supervisors' slots.\n\n### Q17 — Remove the implication\n\nRetaining conditions 1, 2, 3, 5 and 6 produces exactly two feasible orders:\n\n1. **A E D F B C**\n2. **D F B E A C**\n\nThe first order violates the original implication: C is after B, but F is after A. Removing condition 4 admits this additional order. Answer **2**.\n\n### Q18 — Reverse the C–D adjacency rule\n\nReplacing condition 6 with **C adjacent to D**, while retaining conditions 1–5, produces four orders:\n\n| Feasible order | Slots supervised by X (1 and 4) | Does X supervise C? |\n|---|---|---|\n| A E C D F B | A, D | No |\n| A E D C B F | A, C | Yes |\n| E A C D F B | E, D | No |\n| E A D C B F | E, C | Yes |\n\nTherefore **2** revised schedules assign C to X."
+    },
+    {
+      "id": "DILR-16",
+      "section": 1,
+      "number": 16,
+      "type": "MCQ",
+      "topic": "Conditional scheduling and rotating supervisors",
+      "context": "D4",
+      "html": "<p>Which pair of workshops is supervised by Y in the original schedule?</p>",
+      "options": [
+        "<p>B and C</p>",
+        "<p>A and F</p>",
+        "<p>D and E</p>",
+        "<p>B and E</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 17,
+      "solutionMarkdown": "## Answers\n\n| Question | Answer | Editorial difficulty |\n|---|---|---|\n| Q15 | **A — DFBEAC** | Hard |\n| Q16 | **B — A and F** | Medium–Hard |\n| Q17 | **2** | Hard |\n| Q18 | **2** | Hard |\n\n## Original schedule\n\n| Slot | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Workshop | D | F | B | E | A | C |\n| Supervisor | X | Y | Z | X | Y | Z |\n\n**Check all conditions:** A (slot 5) precedes C (6); B (3) is exactly two slots after D (1); E (4) is adjacent to A (5); because C (6) is after B (3), F (2) precedes A (5); A and F differ by three slots; C (6) and D (1) are not adjacent.\n\n### Q15 — Reconstructing the order\n\nA compact case-based strategy starts with the distance-two D–B pair. Its possible slot pairs are (1,3), (2,4), (3,5) and (4,6). For each, place the adjacent A–E pair, retaining A before C and the three-slot separation of A and F. Then test the conditional C-after-B ⇒ F-before-A and nonadjacency of C and D. The only surviving order is **D F B E A C**, corresponding to **option A**.\n\nFor a reproducible exhaustive check, the enumerator at the end of this document tests all 720 permutations. Only one satisfies the six original conditions. This is a finite exhaustive proof, not a statistical sample.\n\n### Q16 — Rotation is determined by slot\n\nSupervisor Y covers slots 2 and 5. In the original schedule these are **F** and **A**. Thus option **B** is correct. The other options fail because their workshops occupy different supervisors' slots.\n\n### Q17 — Remove the implication\n\nRetaining conditions 1, 2, 3, 5 and 6 produces exactly two feasible orders:\n\n1. **A E D F B C**\n2. **D F B E A C**\n\nThe first order violates the original implication: C is after B, but F is after A. Removing condition 4 admits this additional order. Answer **2**.\n\n### Q18 — Reverse the C–D adjacency rule\n\nReplacing condition 6 with **C adjacent to D**, while retaining conditions 1–5, produces four orders:\n\n| Feasible order | Slots supervised by X (1 and 4) | Does X supervise C? |\n|---|---|---|\n| A E C D F B | A, D | No |\n| A E D C B F | A, C | Yes |\n| E A C D F B | E, D | No |\n| E A D C B F | E, C | Yes |\n\nTherefore **2** revised schedules assign C to X."
+    },
+    {
+      "id": "DILR-17",
+      "section": 1,
+      "number": 17,
+      "type": "TITA",
+      "topic": "Conditional scheduling and rotating supervisors",
+      "context": "D4",
+      "html": "<p>Suppose condition 4 is removed entirely, while the other five conditions remain unchanged. How many distinct chronological workshop orders satisfy the revised rules?</p>",
+      "options": [],
+      "answer": "2",
+      "match": "number",
+      "page": 17,
+      "solutionMarkdown": "## Answers\n\n| Question | Answer | Editorial difficulty |\n|---|---|---|\n| Q15 | **A — DFBEAC** | Hard |\n| Q16 | **B — A and F** | Medium–Hard |\n| Q17 | **2** | Hard |\n| Q18 | **2** | Hard |\n\n## Original schedule\n\n| Slot | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Workshop | D | F | B | E | A | C |\n| Supervisor | X | Y | Z | X | Y | Z |\n\n**Check all conditions:** A (slot 5) precedes C (6); B (3) is exactly two slots after D (1); E (4) is adjacent to A (5); because C (6) is after B (3), F (2) precedes A (5); A and F differ by three slots; C (6) and D (1) are not adjacent.\n\n### Q15 — Reconstructing the order\n\nA compact case-based strategy starts with the distance-two D–B pair. Its possible slot pairs are (1,3), (2,4), (3,5) and (4,6). For each, place the adjacent A–E pair, retaining A before C and the three-slot separation of A and F. Then test the conditional C-after-B ⇒ F-before-A and nonadjacency of C and D. The only surviving order is **D F B E A C**, corresponding to **option A**.\n\nFor a reproducible exhaustive check, the enumerator at the end of this document tests all 720 permutations. Only one satisfies the six original conditions. This is a finite exhaustive proof, not a statistical sample.\n\n### Q16 — Rotation is determined by slot\n\nSupervisor Y covers slots 2 and 5. In the original schedule these are **F** and **A**. Thus option **B** is correct. The other options fail because their workshops occupy different supervisors' slots.\n\n### Q17 — Remove the implication\n\nRetaining conditions 1, 2, 3, 5 and 6 produces exactly two feasible orders:\n\n1. **A E D F B C**\n2. **D F B E A C**\n\nThe first order violates the original implication: C is after B, but F is after A. Removing condition 4 admits this additional order. Answer **2**.\n\n### Q18 — Reverse the C–D adjacency rule\n\nReplacing condition 6 with **C adjacent to D**, while retaining conditions 1–5, produces four orders:\n\n| Feasible order | Slots supervised by X (1 and 4) | Does X supervise C? |\n|---|---|---|\n| A E C D F B | A, D | No |\n| A E D C B F | A, C | Yes |\n| E A C D F B | E, D | No |\n| E A D C B F | E, C | Yes |\n\nTherefore **2** revised schedules assign C to X."
+    },
+    {
+      "id": "DILR-18",
+      "section": 1,
+      "number": 18,
+      "type": "TITA",
+      "topic": "Conditional scheduling and rotating supervisors",
+      "context": "D4",
+      "html": "<p>Return to the original six conditions. Now replace condition 6 with the requirement that C and D must be adjacent (all five other conditions remain unchanged). Among the resulting feasible schedules, in how many does supervisor X conduct workshop C?</p>",
+      "options": [],
+      "answer": "2",
+      "match": "number",
+      "page": 17,
+      "solutionMarkdown": "## Answers\n\n| Question | Answer | Editorial difficulty |\n|---|---|---|\n| Q15 | **A — DFBEAC** | Hard |\n| Q16 | **B — A and F** | Medium–Hard |\n| Q17 | **2** | Hard |\n| Q18 | **2** | Hard |\n\n## Original schedule\n\n| Slot | 1 | 2 | 3 | 4 | 5 | 6 |\n|---|---|---|---|---|---|---|\n| Workshop | D | F | B | E | A | C |\n| Supervisor | X | Y | Z | X | Y | Z |\n\n**Check all conditions:** A (slot 5) precedes C (6); B (3) is exactly two slots after D (1); E (4) is adjacent to A (5); because C (6) is after B (3), F (2) precedes A (5); A and F differ by three slots; C (6) and D (1) are not adjacent.\n\n### Q15 — Reconstructing the order\n\nA compact case-based strategy starts with the distance-two D–B pair. Its possible slot pairs are (1,3), (2,4), (3,5) and (4,6). For each, place the adjacent A–E pair, retaining A before C and the three-slot separation of A and F. Then test the conditional C-after-B ⇒ F-before-A and nonadjacency of C and D. The only surviving order is **D F B E A C**, corresponding to **option A**.\n\nFor a reproducible exhaustive check, the enumerator at the end of this document tests all 720 permutations. Only one satisfies the six original conditions. This is a finite exhaustive proof, not a statistical sample.\n\n### Q16 — Rotation is determined by slot\n\nSupervisor Y covers slots 2 and 5. In the original schedule these are **F** and **A**. Thus option **B** is correct. The other options fail because their workshops occupy different supervisors' slots.\n\n### Q17 — Remove the implication\n\nRetaining conditions 1, 2, 3, 5 and 6 produces exactly two feasible orders:\n\n1. **A E D F B C**\n2. **D F B E A C**\n\nThe first order violates the original implication: C is after B, but F is after A. Removing condition 4 admits this additional order. Answer **2**.\n\n### Q18 — Reverse the C–D adjacency rule\n\nReplacing condition 6 with **C adjacent to D**, while retaining conditions 1–5, produces four orders:\n\n| Feasible order | Slots supervised by X (1 and 4) | Does X supervise C? |\n|---|---|---|\n| A E C D F B | A, D | No |\n| A E D C B F | A, C | Yes |\n| E A C D F B | E, D | No |\n| E A D C B F | E, C | Yes |\n\nTherefore **2** revised schedules assign C to X."
+    },
+    {
+      "id": "DILR-19",
+      "section": 1,
+      "number": 19,
+      "type": "TITA",
+      "topic": "Conditional Rankings and Performance Analysis",
+      "context": "D5",
+      "html": "<p>Write the Round 2 scores of teams A, B, C, D and E, in that order, as a five-digit string. For example, 12345 would indicate that A received 1, B received 2, and so on.</p>",
+      "options": [],
+      "answer": "35412",
+      "match": "sequence",
+      "page": 18,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Editorial target |\n|---|---|---|\n| Q19 | **35412** | Hard |\n| Q20 | **B** | Medium–Hard |\n| Q21 | **1** | Hard |\n| Q22 | **A** | Medium–Hard |\n\n## Reconstruction\n\nEach of Round 2 and Round 3 must be a permutation of 1, 2, 3, 4, 5. Because B's Round 2 score plus D's Round 3 score equals 10, both scores must be 5. Thus **B receives 5 in Round 2**, and **D receives 5 in Round 3**.\n\nA has 1 in Round 3. From A's Round 2 score plus B's Round 3 score = 6, the possible pairs are (2,4), (3,3), (4,2), or (5,1); the last pair is impossible because B already has 5 in Round 2 and the Round 2 scores are distinct. Enforcing the distinct-score requirements and C's total being one less than D's leaves exactly one arrangement:\n\n| Team | A | B | C | D | E |\n|---|---:|---:|---:|---:|---:|\n| Round 1 | 5 | 3 | 1 | 4 | 2 |\n| Round 2 | 3 | 5 | 4 | 1 | 2 |\n| Round 3 | 1 | 3 | 4 | 5 | 2 |\n| Original total | 9 | 11 | 9 | 10 | 6 |\n\n**Uniqueness audit:** There are 5! × 5! = 14,400 possible ordered pairs of Round 2 and Round 3 permutations. After condition 1, **576** remain; after condition 2, **12** remain; after condition 3, **2** remain; after condition 4, **1** remains. These counts were established by exhaustive enumeration.\n\n### Q19 — 35412\n\nReading Round 2 in team order A through E gives 3, 5, 4, 1, 2, hence **35412**.\n\n### Q20 — B\n\nThe original totals are A = 9, B = 11, C = 9, D = 10, E = 6. **B wins by one point over D.** A is incorrect because D does not win; C is incorrect because A and C tie below B; D is incorrect because B's lead over D is one point, not two.\n\n### Q21 — 1\n\nUsing W = R1 + 2R2 + 3R3:\n\n| Team | Weighted score |\n|---|---:|\n| A | 5 + 2(3) + 3(1) = 14 |\n| B | 3 + 2(5) + 3(3) = 22 |\n| C | 1 + 2(4) + 3(4) = 21 |\n| D | 4 + 2(1) + 3(5) = 21 |\n| E | 2 + 2(2) + 3(2) = 12 |\n\nSorted scores are **22, 21, 21, 14, 12**. The highest minus third-highest is **22 − 21 = 1**. The tie convention is explicitly defined in the question.\n\n### Q22 — A\n\nExchanging only A's and D's Round 3 scores changes A's Round 3 from 1 to 5 and D's from 5 to 1. The revised totals become **A = 13, B = 11, C = 9, D = 6, E = 6**. A wins outright by **two points** over B.\n\nOption B is wrong because A and B do not tie; C is wrong because D falls to six points; D is wrong because A's lead is two, not one."
+    },
+    {
+      "id": "DILR-20",
+      "section": 1,
+      "number": 20,
+      "type": "MCQ",
+      "topic": "Conditional Rankings and Performance Analysis",
+      "context": "D5",
+      "html": "<p>Under the original total-points scoring system, which statement is correct?</p>",
+      "options": [
+        "<p>Team D wins outright, one point ahead of B.</p>",
+        "<p>Team B wins outright, one point ahead of D.</p>",
+        "<p>Teams A and C jointly win with equal totals.</p>",
+        "<p>Team B wins outright, two points ahead of D.</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 18,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Editorial target |\n|---|---|---|\n| Q19 | **35412** | Hard |\n| Q20 | **B** | Medium–Hard |\n| Q21 | **1** | Hard |\n| Q22 | **A** | Medium–Hard |\n\n## Reconstruction\n\nEach of Round 2 and Round 3 must be a permutation of 1, 2, 3, 4, 5. Because B's Round 2 score plus D's Round 3 score equals 10, both scores must be 5. Thus **B receives 5 in Round 2**, and **D receives 5 in Round 3**.\n\nA has 1 in Round 3. From A's Round 2 score plus B's Round 3 score = 6, the possible pairs are (2,4), (3,3), (4,2), or (5,1); the last pair is impossible because B already has 5 in Round 2 and the Round 2 scores are distinct. Enforcing the distinct-score requirements and C's total being one less than D's leaves exactly one arrangement:\n\n| Team | A | B | C | D | E |\n|---|---:|---:|---:|---:|---:|\n| Round 1 | 5 | 3 | 1 | 4 | 2 |\n| Round 2 | 3 | 5 | 4 | 1 | 2 |\n| Round 3 | 1 | 3 | 4 | 5 | 2 |\n| Original total | 9 | 11 | 9 | 10 | 6 |\n\n**Uniqueness audit:** There are 5! × 5! = 14,400 possible ordered pairs of Round 2 and Round 3 permutations. After condition 1, **576** remain; after condition 2, **12** remain; after condition 3, **2** remain; after condition 4, **1** remains. These counts were established by exhaustive enumeration.\n\n### Q19 — 35412\n\nReading Round 2 in team order A through E gives 3, 5, 4, 1, 2, hence **35412**.\n\n### Q20 — B\n\nThe original totals are A = 9, B = 11, C = 9, D = 10, E = 6. **B wins by one point over D.** A is incorrect because D does not win; C is incorrect because A and C tie below B; D is incorrect because B's lead over D is one point, not two.\n\n### Q21 — 1\n\nUsing W = R1 + 2R2 + 3R3:\n\n| Team | Weighted score |\n|---|---:|\n| A | 5 + 2(3) + 3(1) = 14 |\n| B | 3 + 2(5) + 3(3) = 22 |\n| C | 1 + 2(4) + 3(4) = 21 |\n| D | 4 + 2(1) + 3(5) = 21 |\n| E | 2 + 2(2) + 3(2) = 12 |\n\nSorted scores are **22, 21, 21, 14, 12**. The highest minus third-highest is **22 − 21 = 1**. The tie convention is explicitly defined in the question.\n\n### Q22 — A\n\nExchanging only A's and D's Round 3 scores changes A's Round 3 from 1 to 5 and D's from 5 to 1. The revised totals become **A = 13, B = 11, C = 9, D = 6, E = 6**. A wins outright by **two points** over B.\n\nOption B is wrong because A and B do not tie; C is wrong because D falls to six points; D is wrong because A's lead is two, not one."
+    },
+    {
+      "id": "DILR-21",
+      "section": 1,
+      "number": 21,
+      "type": "TITA",
+      "topic": "Conditional Rankings and Performance Analysis",
+      "context": "D5",
+      "html": "<p>Suppose the tournament instead uses the weighted score</p><p>W = R₁ + 2R₂ + 3R₃</p><p>where R₁, R₂, R₃ are a team&#x27;s points in the respective rounds. What is the difference between the highest and the third-highest weighted scores? Count tied scores as occupying consecutive positions when ordering all five teams&#x27; scores from highest to lowest.</p>",
+      "options": [],
+      "answer": "1",
+      "match": "number",
+      "page": 18,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Editorial target |\n|---|---|---|\n| Q19 | **35412** | Hard |\n| Q20 | **B** | Medium–Hard |\n| Q21 | **1** | Hard |\n| Q22 | **A** | Medium–Hard |\n\n## Reconstruction\n\nEach of Round 2 and Round 3 must be a permutation of 1, 2, 3, 4, 5. Because B's Round 2 score plus D's Round 3 score equals 10, both scores must be 5. Thus **B receives 5 in Round 2**, and **D receives 5 in Round 3**.\n\nA has 1 in Round 3. From A's Round 2 score plus B's Round 3 score = 6, the possible pairs are (2,4), (3,3), (4,2), or (5,1); the last pair is impossible because B already has 5 in Round 2 and the Round 2 scores are distinct. Enforcing the distinct-score requirements and C's total being one less than D's leaves exactly one arrangement:\n\n| Team | A | B | C | D | E |\n|---|---:|---:|---:|---:|---:|\n| Round 1 | 5 | 3 | 1 | 4 | 2 |\n| Round 2 | 3 | 5 | 4 | 1 | 2 |\n| Round 3 | 1 | 3 | 4 | 5 | 2 |\n| Original total | 9 | 11 | 9 | 10 | 6 |\n\n**Uniqueness audit:** There are 5! × 5! = 14,400 possible ordered pairs of Round 2 and Round 3 permutations. After condition 1, **576** remain; after condition 2, **12** remain; after condition 3, **2** remain; after condition 4, **1** remains. These counts were established by exhaustive enumeration.\n\n### Q19 — 35412\n\nReading Round 2 in team order A through E gives 3, 5, 4, 1, 2, hence **35412**.\n\n### Q20 — B\n\nThe original totals are A = 9, B = 11, C = 9, D = 10, E = 6. **B wins by one point over D.** A is incorrect because D does not win; C is incorrect because A and C tie below B; D is incorrect because B's lead over D is one point, not two.\n\n### Q21 — 1\n\nUsing W = R1 + 2R2 + 3R3:\n\n| Team | Weighted score |\n|---|---:|\n| A | 5 + 2(3) + 3(1) = 14 |\n| B | 3 + 2(5) + 3(3) = 22 |\n| C | 1 + 2(4) + 3(4) = 21 |\n| D | 4 + 2(1) + 3(5) = 21 |\n| E | 2 + 2(2) + 3(2) = 12 |\n\nSorted scores are **22, 21, 21, 14, 12**. The highest minus third-highest is **22 − 21 = 1**. The tie convention is explicitly defined in the question.\n\n### Q22 — A\n\nExchanging only A's and D's Round 3 scores changes A's Round 3 from 1 to 5 and D's from 5 to 1. The revised totals become **A = 13, B = 11, C = 9, D = 6, E = 6**. A wins outright by **two points** over B.\n\nOption B is wrong because A and B do not tie; C is wrong because D falls to six points; D is wrong because A's lead is two, not one."
+    },
+    {
+      "id": "DILR-22",
+      "section": 1,
+      "number": 22,
+      "type": "MCQ",
+      "topic": "Conditional Rankings and Performance Analysis",
+      "context": "D5",
+      "html": "<p>Return to the original total-points scoring system. Suppose only the Round 3 scores of A and D are exchanged, while all other awarded scores remain unchanged. Which outcome follows?</p>",
+      "options": [
+        "<p>A wins outright, with a two-point lead over B.</p>",
+        "<p>B and A tie for first place.</p>",
+        "<p>D remains second, one point behind B.</p>",
+        "<p>A wins outright, with a one-point lead over B.</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 18,
+      "solutionMarkdown": "## Answer key\n\n| Question | Answer | Editorial target |\n|---|---|---|\n| Q19 | **35412** | Hard |\n| Q20 | **B** | Medium–Hard |\n| Q21 | **1** | Hard |\n| Q22 | **A** | Medium–Hard |\n\n## Reconstruction\n\nEach of Round 2 and Round 3 must be a permutation of 1, 2, 3, 4, 5. Because B's Round 2 score plus D's Round 3 score equals 10, both scores must be 5. Thus **B receives 5 in Round 2**, and **D receives 5 in Round 3**.\n\nA has 1 in Round 3. From A's Round 2 score plus B's Round 3 score = 6, the possible pairs are (2,4), (3,3), (4,2), or (5,1); the last pair is impossible because B already has 5 in Round 2 and the Round 2 scores are distinct. Enforcing the distinct-score requirements and C's total being one less than D's leaves exactly one arrangement:\n\n| Team | A | B | C | D | E |\n|---|---:|---:|---:|---:|---:|\n| Round 1 | 5 | 3 | 1 | 4 | 2 |\n| Round 2 | 3 | 5 | 4 | 1 | 2 |\n| Round 3 | 1 | 3 | 4 | 5 | 2 |\n| Original total | 9 | 11 | 9 | 10 | 6 |\n\n**Uniqueness audit:** There are 5! × 5! = 14,400 possible ordered pairs of Round 2 and Round 3 permutations. After condition 1, **576** remain; after condition 2, **12** remain; after condition 3, **2** remain; after condition 4, **1** remains. These counts were established by exhaustive enumeration.\n\n### Q19 — 35412\n\nReading Round 2 in team order A through E gives 3, 5, 4, 1, 2, hence **35412**.\n\n### Q20 — B\n\nThe original totals are A = 9, B = 11, C = 9, D = 10, E = 6. **B wins by one point over D.** A is incorrect because D does not win; C is incorrect because A and C tie below B; D is incorrect because B's lead over D is one point, not two.\n\n### Q21 — 1\n\nUsing W = R1 + 2R2 + 3R3:\n\n| Team | Weighted score |\n|---|---:|\n| A | 5 + 2(3) + 3(1) = 14 |\n| B | 3 + 2(5) + 3(3) = 22 |\n| C | 1 + 2(4) + 3(4) = 21 |\n| D | 4 + 2(1) + 3(5) = 21 |\n| E | 2 + 2(2) + 3(2) = 12 |\n\nSorted scores are **22, 21, 21, 14, 12**. The highest minus third-highest is **22 − 21 = 1**. The tie convention is explicitly defined in the question.\n\n### Q22 — A\n\nExchanging only A's and D's Round 3 scores changes A's Round 3 from 1 to 5 and D's from 5 to 1. The revised totals become **A = 13, B = 11, C = 9, D = 6, E = 6**. A wins outright by **two points** over B.\n\nOption B is wrong because A and B do not tie; C is wrong because D falls to six points; D is wrong because A's lead is two, not one."
+    },
+    {
+      "id": "QA-1",
+      "section": 2,
+      "number": 1,
+      "type": "MCQ",
+      "topic": "Weighted averages and transfer",
+      "context": null,
+      "html": "<p>Two divisions A and B have average assessment scores of 64 and 78, respectively. The average across both divisions is 72. Six employees are transferred from B to A; their average score is 85. After the transfer, A&#x27;s average becomes 70. Scores do not change. What is the average score of the employees remaining in B?</p>",
+      "options": [
+        "<p>73.5</p>",
+        "<p>75</p>",
+        "<p>76.5</p>",
+        "<p>77</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 20,
+      "solutionMarkdown": "Let initial headcounts be a and b. The combined average gives 64a+78b=72(a+b), hence 6b=8a, or a:b=3:4. Write a=3k and b=4k. After transfer, (64·3k+6·85)/(3k+6)=70. Thus 192k+510=210k+420, so k=5. Original B: 20 employees with score sum 1560. Remaining B: 14 employees with sum 1560−510=1050, average **75**. Distractors arise from averaging averages or ignoring the transfer's headcount effect."
+    },
+    {
+      "id": "QA-2",
+      "section": 2,
+      "number": 2,
+      "type": "TITA",
+      "topic": "Sequential pricing and tax",
+      "context": null,
+      "html": "<p>A retailer buys an item for ₹6,000 and marks it 50% above cost. The retailer applies a 20% discount on the marked price, followed by a second discount of d%. A 5% tax is then charged on the discounted selling price and passed entirely to the government. The customer&#x27;s final bill is ₹6,804. What is the retailer&#x27;s profit as a percentage of cost? Enter the percentage as a number, without the % sign.</p>",
+      "options": [],
+      "answer": "8",
+      "match": "number",
+      "page": 20,
+      "solutionMarkdown": "Marked price = 6000(1.5)=₹9000. After 20% discount: ₹7200. Because the tax is passed to the government, pretax revenue is 6804/1.05=₹6480. Thus the second discount is 10%, but the requested answer is profit: (6480−6000)/6000×100 = **8**. The tax must not be counted as retailer revenue."
+    },
+    {
+      "id": "QA-3",
+      "section": 2,
+      "number": 3,
+      "type": "MCQ",
+      "topic": "Staggered work rates",
+      "context": null,
+      "html": "<p>Three contractors A, B and C can complete a job alone in 12, 18 and 24 days respectively. A works from the beginning. B joins after exactly 3 days, and C joins after exactly 6 days. All work continuously at constant rates until the job is finished. What fraction of the entire job is performed by B?</p>",
+      "options": [
+        "<p>7/26</p>",
+        "<p>5/18</p>",
+        "<p>3/13</p>",
+        "<p>4/13</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 20,
+      "solutionMarkdown": "In days 1–3, A completes 3/12=1/4. In days 4–6, A+B complete 3(1/12+1/18)=5/12. So 2/3 of the job is complete by day 6. From day 7, combined rate is 1/12+1/18+1/24=13/72; remaining time is (1/3)/(13/72)=24/13 days. B works 3+24/13=63/13 days. B's work fraction = (63/13)/18 = **7/26**. Note that B starts on day 4, not day 3."
+    },
+    {
+      "id": "QA-4",
+      "section": 2,
+      "number": 4,
+      "type": "TITA",
+      "topic": "Two-stage mixture replacement",
+      "context": null,
+      "html": "<p>A tank initially contains 40 litres of a solution that is 30% acid. First, x litres of the well-mixed solution are removed and replaced with x litres of a 60% acid solution. The tank is mixed thoroughly. Next, x litres of this new mixture are removed and replaced with x litres of pure water. The final concentration is 27% acid. If 0 &lt; x &lt; 40, find x in litres, to two decimal places.</p>",
+      "options": [],
+      "answer": "12.65",
+      "match": "number",
+      "page": 20,
+      "solutionMarkdown": "After the first replacement, acid volume = 12−0.3x+0.6x = 12+0.3x. After the second replacement, acid volume = (12+0.3x)(1−x/40). The target is 0.27·40=10.8. Expanding gives 12−0.0075x²=10.8, hence x²=160. The only physically admissible root is **x=4√10≈12.65 litres**."
+    },
+    {
+      "id": "QA-5",
+      "section": 2,
+      "number": 5,
+      "type": "MCQ",
+      "topic": "Sales, returns, and target profit",
+      "context": null,
+      "html": "<p>A merchant buys 100 identical units at ₹500 each and incurs a fixed total handling cost of ₹3,200. Twenty units sell at 25% above purchase cost. Of the remaining 80 units, 10% are sold at a price p but are later returned for a full refund; these eight units are eventually sold at 10% below purchase cost. The other 72 units sell at price p. The merchant wants a net profit of exactly 25% on the total expenditure, including handling. What must p be?</p>",
+      "options": [
+        "<p>₹675</p>",
+        "<p>₹685</p>",
+        "<p>₹700</p>",
+        "<p>₹725</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 20,
+      "solutionMarkdown": "Total expenditure = 100·500+3200=₹53,200. Required net revenue = 1.25·53200=₹66,500. The first 20 units yield 20·625=₹12,500. The eight returned units are refunded, so only their resale revenue 8·450=₹3,600 counts. The other 72 yield 72p. Hence 12500+3600+72p=66500, so 72p=50400 and **p=₹700**. Counting refunded sales as revenue is incorrect."
+    },
+    {
+      "id": "QA-6",
+      "section": 2,
+      "number": 6,
+      "type": "TITA",
+      "topic": "Changing speed across segments",
+      "context": null,
+      "html": "<p>A vehicle covers 180 km in three consecutive 60-km segments. Its speed in the first segment is 40 km/h; in the second it is v km/h; and in the third it is (v + 20) km/h. The entire journey takes exactly 4 hours, with no stops. Find the average speed over the last 120 km, in km/h.</p>",
+      "options": [],
+      "answer": "48",
+      "match": "number",
+      "page": 21,
+      "solutionMarkdown": "The first 60 km takes 60/40=1.5 hours. The remaining 120 km takes 4−1.5=2.5 hours, so its average speed is **120/2.5=48 km/h**. For consistency, 60/v+60/(v+20)=2.5 has positive solution v=40, giving segment speeds 40 and 60. Their arithmetic mean, 50, is not the distance-weighted average."
+    },
+    {
+      "id": "QA-7",
+      "section": 2,
+      "number": 7,
+      "type": "MCQ",
+      "topic": "Parameterized quadratic",
+      "context": null,
+      "html": "<p>For a positive integer k, the equation x² − (k + 5)x + 4k = 0 has two distinct positive integer roots whose difference is exactly 5. What is the product of the roots?</p>",
+      "options": [
+        "<p>18</p>",
+        "<p>24</p>",
+        "<p>30</p>",
+        "<p>32</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 21,
+      "solutionMarkdown": "The squared root difference equals the discriminant: Δ = (k+5)² − 16k = (k−3)² + 16. A difference of 5 gives Δ=25, hence (k−3)²=9 and k=0 or k=6. Since k is positive, k=6. The roots are (11±5)/2 = 8 and 3, giving product **24**. The excluded k=0 would yield a zero root and violate the stated domain."
+    },
+    {
+      "id": "QA-8",
+      "section": 2,
+      "number": 8,
+      "type": "TITA",
+      "topic": "Functional equation with a restricted domain",
+      "context": null,
+      "html": "<p>A function f is defined on the nonnegative rational numbers and satisfies f(x + y) = f(x) + f(y) + 2xy for all x,y in its domain. If f(1) = 3, determine 4[f(5/2) − f(1/2)].</p>",
+      "options": [],
+      "answer": "40",
+      "match": "number",
+      "page": 21,
+      "solutionMarkdown": "Set g(x)=f(x)−x². Then g(x+y)=g(x)+g(y) on nonnegative rationals, and g(1)=f(1)−1=2. Additivity on the rational domain gives g(q)=2q. Thus f(q)=q²+2q. Consequently f(5/2)=45/4 and f(1/2)=5/4; their difference is 10. Requested value = **40**. The rational domain is important: the derivation uses rational additivity, not any unstated continuity assumption."
+    },
+    {
+      "id": "QA-9",
+      "section": 2,
+      "number": 9,
+      "type": "MCQ",
+      "topic": "Coupled logarithmic constraints",
+      "context": null,
+      "html": "<p>Positive real numbers x and y satisfy log₂x + log₄y = 5 and log₂y + log₄x = 4. Find x/y.</p>",
+      "options": [
+        "<p>2</p>",
+        "<p>4</p>",
+        "<p>8</p>",
+        "<p>16</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 21,
+      "solutionMarkdown": "Let a=log₂x and b=log₂y. Since log₄z=(log₂z)/2, the equations become 2a+b=10 and a+2b=8. Solving gives a=4, b=2, so x=16, y=4, and **x/y=4**. Both x,y>0, so all logarithms are admissible."
+    },
+    {
+      "id": "QA-10",
+      "section": 2,
+      "number": 10,
+      "type": "TITA",
+      "topic": "Arithmetic and geometric sequences",
+      "context": null,
+      "html": "<p>Three positive integers a &lt; b &lt; c form an arithmetic progression and have sum 24. The three numbers a, b, and c + 4, in that order, form a geometric progression. Find ac.</p>",
+      "options": [],
+      "answer": "48",
+      "match": "number",
+      "page": 21,
+      "solutionMarkdown": "Because a,b,c form an arithmetic progression with sum 24, b=8, a=8−d, c=8+d, with d>0. The geometric condition yields b²=a(c+4), or 64=(8−d)(12+d)=96−4d−d². Thus d²+4d−32=0=(d−4)(d+8). The only positive d is 4, giving (a,b,c)=(4,8,12) and **ac=48**. The other algebraic root d=−8 violates a<b<c and yields c=0."
+    },
+    {
+      "id": "QA-11",
+      "section": 2,
+      "number": 11,
+      "type": "MCQ",
+      "topic": "Piecewise minimax optimization",
+      "context": null,
+      "html": "<p>For real x, define F(x) = max{|x − 2| + |x − 8|, 2|x − 5| + 4}. Let S be the set of integers x at which F achieves its global minimum. What is the sum of the elements of S?</p>",
+      "options": [
+        "<p>12</p>",
+        "<p>14</p>",
+        "<p>15</p>",
+        "<p>18</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 21,
+      "solutionMarkdown": "The triangle inequality gives |x−2|+|x−8|≥6, with equality precisely for x in [2,8]. Hence F(x)≥6. To attain 6, also require 2|x−5|+4≤6, or |x−5|≤1. The minimizing interval is [4,6], and its integer points are {4,5,6}. Their sum is **15**. This proves global optimality, not merely a local minimum."
+    },
+    {
+      "id": "QA-12",
+      "section": 2,
+      "number": 12,
+      "type": "TITA",
+      "topic": "Absolute-value equation and admissibility",
+      "context": null,
+      "html": "<p>Find the sum of all distinct real solutions to |x² − 5x + 4| = 2x − 2. Enter the exact numerical answer.</p>",
+      "options": [],
+      "answer": "9",
+      "match": "number",
+      "page": 21,
+      "solutionMarkdown": "The right-hand side must be nonnegative, so x≥1. If x²−5x+4≥0, the equation becomes x²−7x+6=0, giving x=1,6; both satisfy the branch sign condition. If x²−5x+4<0, the equation becomes −x²+3x−2=0, giving x=1,2, but x=1 has zero inside the absolute value and belongs to the boundary of the first branch. x=2 is valid in the negative branch. Distinct solutions are {1,2,6}; their sum is **9**."
+    },
+    {
+      "id": "QA-13",
+      "section": 2,
+      "number": 13,
+      "type": "MCQ",
+      "topic": "Polynomial identities and reciprocal transformation",
+      "context": null,
+      "html": "<p>The three roots of P(t) = t³ − 12t² + 44t − 48 are distinct positive integers. If the roots are r, s, and u, determine 1/(r + 1) + 1/(s + 1) + 1/(u + 1).</p>",
+      "options": [
+        "<p>13/21</p>",
+        "<p>71/105</p>",
+        "<p>5/7</p>",
+        "<p>19/30</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 21,
+      "solutionMarkdown": "Factor P(t)=(t−2)(t−4)(t−6), giving roots 2,4,6. The requested sum is 1/3+1/5+1/7=(35+21+15)/105=**71/105**. As an independent symmetric-polynomial check, the numerator of the sum over (r+1)(s+1)(u+1) is rs+ru+su+2(r+s+u)+3=44+24+3=71; the denominator is rsu+(rs+ru+su)+(r+s+u)+1=48+44+12+1=105."
+    },
+    {
+      "id": "QA-14",
+      "section": 2,
+      "number": 14,
+      "type": "MCQ",
+      "topic": "Circle tangency inside a triangle",
+      "context": null,
+      "html": "<p>A circle lies entirely inside the triangle bounded by the positive coordinate axes and the line 3x + 4y = 30. It is tangent to all three sides. Let T be the point where the circle touches the x-axis and V be the vertex of the triangle on the x-axis. What is the squared distance TV²?</p>",
+      "options": [
+        "<p>25/4</p>",
+        "<p>225/4</p>",
+        "<p>25</p>",
+        "<p>625/16</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 22,
+      "solutionMarkdown": "The line intersects the axes at V = (10, 0) and (0, 15/2). A circle tangent to both positive axes has center (r, r), with tangency point T = (r, 0). Since it lies on the origin side of the line, the distance from its center to 3x + 4y − 30 = 0 equals r:\n\n(30 − 7r)/5 = r, hence 30 = 12r and **r = 5/2**.\n\nThus TV = 10 − 5/2 = 15/2, and **TV² = 225/4**, option B. The condition that the circle is *inside* the triangle selects the appropriate sign of the distance equation.\n\n- A is the squared radius, not TV².\n- C ignores the actual tangency coordinate.\n- D does not satisfy the tangency geometry."
+    },
+    {
+      "id": "QA-15",
+      "section": 2,
+      "number": 15,
+      "type": "TITA",
+      "topic": "Coordinate geometry and area ratios",
+      "context": null,
+      "html": "<p>A triangle has vertices A = (0, 0), B = (12, 0), and C = (0, 9). An interior point P has perpendicular distances to the lines AB, AC, and BC, in that order, in the ratio 2 : 3 : 1. Let K be the area of triangle PBC. Determine 11K.</p>",
+      "options": [],
+      "answer": "135",
+      "match": "number",
+      "page": 22,
+      "solutionMarkdown": "The hypotenuse BC has equation **3x + 4y = 36**. For P = (x,y) inside the triangle, distances to AB, AC, BC are respectively:\n\n**y, x, (36 − 3x − 4y)/5**.\n\nLet the common ratio factor be t > 0. Then y = 2t, x = 3t, and (36 − 17t)/5 = t. Consequently **t = 18/11**, **P = (54/11, 36/11)**.\n\nThe whole triangle has area 12 × 9 / 2 = 54. Triangle PAB has area 12y/2 = 216/11; triangle PAC has area 9x/2 = 243/11. Therefore\n\nK = 54 − 216/11 − 243/11 = **135/11**, so **11K = 135**.\n\nThe interior-point requirement ensures that the signed-distance expression is valid."
+    },
+    {
+      "id": "QA-16",
+      "section": 2,
+      "number": 16,
+      "type": "MCQ",
+      "topic": "Similarity in a trapezoid",
+      "context": null,
+      "html": "<p>In trapezoid ABCD, AB is parallel to CD, with AB : CD = 3 : 2. Diagonals AC and BD meet at O. The area of triangle AOD is 30 square units. What is the area of the entire trapezoid?</p>",
+      "options": [
+        "<p>100</p>",
+        "<p>120</p>",
+        "<p>125</p>",
+        "<p>150</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 22,
+      "solutionMarkdown": "Because AB ∥ CD, triangles AOB and COD are similar, with linear ratio 3:2 and area ratio **9:4**. Let their areas be 9k and 4k. Triangles AOD and BOC have equal area (they share equal-altitude relationships in the trapezoid), and the area of either mixed triangle is the geometric mean of the areas of AOB and COD: **6k**.\n\nGiven area(AOD) = 30, we have 6k = 30, so k = 5. Thus the four triangle areas are 45, 30, 30, 20, summing to **125**, option C.\n\nA useful check is the trapezoid area identity **(√45 + √20)² = 125**."
+    },
+    {
+      "id": "QA-17",
+      "section": 2,
+      "number": 17,
+      "type": "TITA",
+      "topic": "Cost-weighted mensuration optimization",
+      "context": null,
+      "html": "<p>A cylindrical container has no lid, must hold 250π cubic units, and has radius r and height h. Material for the circular base costs twice as much per square unit as material for the curved side. If the curved-side material costs 1 unit per square unit, what is the minimum total material cost divided by π? Assume r &gt; 0 and h &gt; 0.</p>",
+      "options": [],
+      "answer": "150",
+      "match": "number",
+      "page": 22,
+      "solutionMarkdown": "The volume condition gives πr²h = 250π, hence **h = 250/r²**. The base area is πr² and costs twice its area, while the lateral area is 2πrh and costs its area. Total cost:\n\nC = 2πr² + 2πrh = π(2r² + 500/r).\n\nSet f(r) = C/π = 2r² + 500/r for r > 0. Differentiating,\n\nf′(r) = 4r − 500/r² = 0 ⟹ **r³ = 125**, so r = 5 and h = 10.\n\nSince **f″(r) = 4 + 1000/r³ > 0** for all r > 0, this stationary point is the unique global minimum. Therefore **Cmin/π = 2(25) + 500/5 = 150**."
+    },
+    {
+      "id": "QA-18",
+      "section": 2,
+      "number": 18,
+      "type": "MCQ",
+      "topic": "Coupled congruences and divisibility",
+      "context": null,
+      "html": "<p>A positive integer N leaves remainders 2, 3, and 4 when divided by 5, 7, and 9, respectively. It is also divisible by 11. What is the least possible value of N?</p>",
+      "options": [
+        "<p>2992</p>",
+        "<p>6457</p>",
+        "<p>9922</p>",
+        "<p>1387</p>"
+      ],
+      "answer": "A",
+      "match": "option",
+      "page": 22,
+      "solutionMarkdown": "From N ≡ 2 (mod 5), write N = 2 + 5a. The condition N ≡ 3 (mod 7) gives 5a ≡ 1 (mod 7), so a ≡ 3 (mod 7). Therefore N = 17 + 35b. Now N ≡ 4 (mod 9) gives 8 + 8b ≡ 4 (mod 9), hence b ≡ 4 (mod 9). Therefore N = 157 + 315k for an integer k ≥ 0. Finally, modulo 11: 157 + 315k ≡ 3 + 7k ≡ 0, so 7k ≡ 8 (mod 11), and k ≡ 9 (mod 11). The smallest nonnegative k is 9. Thus **N = 157 + 315×9 = 2992**, answer **A**. Check: 2992 gives remainders 2, 3, 4 on division by 5, 7, 9, and 2992 = 11×272."
+    },
+    {
+      "id": "QA-19",
+      "section": 2,
+      "number": 19,
+      "type": "TITA",
+      "topic": "Divisor-count constraints and square factors",
+      "context": null,
+      "html": "<p>A positive integer N is divisible by 12, is not divisible by 5, and has exactly 18 positive divisors. In addition, N/12 is a perfect square. Find the smallest possible N.</p>",
+      "options": [],
+      "answer": "588",
+      "match": "number",
+      "page": 22,
+      "solutionMarkdown": "Write N = 12k². For k = 1, 2, 3, 4, 5, 6, the candidates are 12, 48, 108, 192, 300, 432. Their divisor counts are respectively 6, 10, 12, 14, 18, 20; however 300 is divisible by 5 and excluded. At k = 7, N = 588 = 2² × 3 × 7², giving (2+1)(1+1)(2+1) = **18 divisors**. Thus the least eligible N is **588**."
+    },
+    {
+      "id": "QA-20",
+      "section": 2,
+      "number": 20,
+      "type": "MCQ",
+      "topic": "Constrained nonnegative integer solutions",
+      "context": null,
+      "html": "<p>Three integers x, y, z satisfy</p><p>- x + y + z = 18;</p><p>- x is a positive even integer;</p><p>- y is a positive integer and z &gt; y;</p><p>- x + 2y is divisible by 3.</p><p>How many ordered triples (x, y, z) satisfy all the conditions?</p>",
+      "options": [
+        "<p>6</p>",
+        "<p>7</p>",
+        "<p>8</p>",
+        "<p>9</p>"
+      ],
+      "answer": "B",
+      "match": "option",
+      "page": 23,
+      "solutionMarkdown": "For each positive even x, set z = 18 − x − y. The condition z > y gives 2y < 18 − x. Impose x + 2y ≡ 0 (mod 3). The eligible triples are:\n\n(2,2,14), (2,5,11), (4,1,13), (4,4,10), (6,3,9), (8,2,8), (10,1,7).\n\nThere are **7** triples; answer **B**."
+    },
+    {
+      "id": "QA-21",
+      "section": 2,
+      "number": 21,
+      "type": "TITA",
+      "topic": "Repeated-letter arrangements with interacting restrictions",
+      "context": null,
+      "html": "<p>How many distinct six-letter arrangements of A, A, B, B, C, C satisfy all of the following?</p><p>1. No two identical letters are adjacent.</p><p>2. The first A occurs before the first B.</p><p>3. The last letter is not C.</p><p>Enter the number of arrangements.</p>",
+      "options": [],
+      "answer": "10",
+      "match": "number",
+      "page": 23,
+      "solutionMarkdown": "Enumerate the distinct permutations of the multiset AABBCC (90 unrestricted permutations), rejecting any with adjacent identical letters, any in which the first B precedes the first A, and any ending in C. The ten surviving arrangements are:\n\nABCACB, ABCBCA, ACABCB, ACBACB, ACBCAB, ACBCBA, CABACB, CABCAB, CABCBA, CACBAB.\n\nHence **10**. This is a finite exhaustive count, independently checked by enumerating the 90 distinct permutations."
+    },
+    {
+      "id": "QA-22",
+      "section": 2,
+      "number": 22,
+      "type": "MCQ",
+      "topic": "Restricted lattice paths through a checkpoint",
+      "context": null,
+      "html": "<p>A robot moves from (0, 0) to (6, 5), taking only one-unit steps right or up. It must pass through (3, 2), but it may never visit (2, 1) or (4, 3). How many distinct routes satisfy these conditions?</p>",
+      "options": [
+        "<p>28</p>",
+        "<p>30</p>",
+        "<p>32</p>",
+        "<p>36</p>"
+      ],
+      "answer": "C",
+      "match": "option",
+      "page": 23,
+      "solutionMarkdown": "Every admissible path passes through (3,2), so count the two segments separately.\n\nFrom (0,0) to (3,2), there are C(5,2)=10 monotone paths. Paths through (2,1) number C(3,1)×C(2,1)=3×2=6. Thus the first segment has **4** choices.\n\nFrom (3,2) to (6,5), there are C(6,3)=20 paths. Paths through (4,3) number C(2,1)×C(4,2)=2×6=12. Thus the second segment has **8** choices.\n\nThe segments combine independently: 4×8=**32**, answer **C**."
+    }
+  ]
+}

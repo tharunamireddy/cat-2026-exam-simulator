@@ -1,0 +1,1121 @@
+CAT 2026 | Advanced Challenge Mock — Student
+Paper
+
+CAT 2026 — Advanced Full Mock Student Paper (Revised)
+
+68 questions | 120 minutes | 40 minutes each: VARC, DILR, QA.
+
+Practice mock, not an official CAT paper. Difficulty and timing have not been empirically calibrated.
+
+SECTION: VARC
+
+CAT 2026 — Advanced VARC Student Paper (24 Questions)
+
+Original practice mock | 40 minutes | 4 RC passages (16 questions) + 8 VA questions
+
+Answer all questions using only the passage or paragraph given. For Q23–24 enter a four-digit order; for
+Q21–22 enter the odd sentence number.
+
+Editorial note: Q2, Q4, Q10 and Q23 were refined after answer-option and ambiguity review.
+
+Original practice material | 4 questions | Suggested time: 9–11 minutes
+Passage: When Instruments Become Interventions
+
+A measuring instrument is usually imagined as a window: it may be cloudy, but polishing it should bring the
+observer closer to a scene that exists independently of the glass. This metaphor works reasonably well when
+a thermometer is placed briefly in a large reservoir. It becomes less reliable when measuring a phenomenon
+alters the conditions that produce it. A sensor installed in a narrow stream may redirect the current; a survey
+asking employees whether they trust management may itself change what employees regard as a
+trustworthy response. In such cases, the problem is not simply that observations contain error. The object of
+observation has partly become a product of the attempt to observe it.
+
+Researchers sometimes address this difficulty by calibrating an instrument against a reference. But
+calibration assumes that the reference remains stable under the relevant act of measurement. Consider a
+municipal authority that estimates traffic congestion using travel times reported by a navigation application.
+Initially, those reports may describe existing travel patterns fairly well. Once drivers receive route
+recommendations based on the reports, however, traffic redistributes. A road formerly classified as
+uncongested may become crowded precisely because the system classified it that way. Comparing the
+application with a second application does not necessarily solve the problem if both influence drivers who
+share the same roads.
+
+It is tempting to call this a defect of technology and to prefer an observer who does not interfere. Yet
+non-interference is not always available, nor is it always desirable. Public-health officials who measure
+infection clusters may issue warnings that reduce transmission. If the resulting forecasts prove too
+pessimistic, this need not show that the original model was poorly constructed: its publication may have
+helped prevent the outcome it anticipated. The relevant distinction is between an instrument that
+misdescribes a relatively stable world and one that helps change the world it describes. Both can produce a
+mismatch between forecast and outcome, but the remedies differ. Better calibration may correct the former;
+it cannot, by itself, explain the latter.
+
+This distinction does not make every self-defeating forecast a success. A warning may be ignored, its
+apparent effect may be due to an unrelated policy, or its initial forecast may have been exaggerated. To
+claim that measurement caused a change, investigators need evidence about the pathway connecting
+observation, response, and outcome. They might compare otherwise similar populations exposed to different
+warnings, while recognizing that such comparisons can be compromised if people in one population
+influence those in another. The task is therefore not to abandon standards of evidence but to make the
+consequences of observation part of what those standards examine.
+
+There is a further complication. An institution may deliberately choose a measurement that induces
+desirable behavior rather than one that most accurately records behavior in the absence of measurement.
+Publishing a hospital's waiting times might encourage hospitals to reduce delays, even if the published figure
+then becomes a poor guide to how long a patient would have waited without publication. This can be a
+defensible policy choice. It becomes intellectually misleading only when the institution presents the resulting
+number as a neutral portrait of an untouched reality. The instrument can be both a useful lever and an
+
+imperfect window; confusion begins when success in one role is treated as proof of success in the other.
+Questions
+
+Q1. Which statement best captures the passage's central argument?
+
+A. Measurement should be evaluated primarily by whether it improves outcomes, since any attempt to
+represent an unchanged world is ultimately illusory.
+B. When observations alter behavior, disagreement between prediction and outcome can reflect intervention
+rather than inaccuracy; evaluating the instrument therefore requires examining both its descriptive and
+causal roles.
+C. The chief limitation of modern instruments is that their calibration standards are unstable, a problem best
+solved by comparing multiple independent devices.
+D. Instruments that affect what they measure should be excluded from scientific inquiry, though their use in
+public policy may remain justified.
+Q2. A city uses an application to forecast road congestion and then recommends routes to drivers. Under
+which condition would agreement between the application's forecasts and a second application's forecasts
+provide the least additional evidence of descriptive accuracy?
+
+A. The second application draws on a different sample of drivers, but both applications' recommendations
+substantially redirect traffic onto the same roads.
+B. The second application uses different sensors, and neither application's forecasts are shown to drivers
+until after their journeys.
+C. Both applications predict similar congestion patterns using separately collected traffic records, but their
+forecasts are checked only against traffic observed after drivers have received both applications’ route
+recommendations.
+D. The second application uses the same units as the first, but calibrates its sensors against fixed roadside
+counters.
+Q3. A health agency argues that its infection forecast was sound because cases declined after it published a
+warning. Which additional finding would most seriously weaken the agency's specific claim that publishing
+the forecast caused the decline?
+
+A. A neighboring region received the same warning and experienced a smaller decline, although its initial
+infection rate was higher.
+B. People who saw the warning reported greater concern about infection, but their reported protective
+behavior changed little.
+C. A comparable region that never received the warning experienced an equally large decline immediately
+after a nationwide treatment program began in both regions.
+D. The agency's forecast had been based on incomplete case reports, although its predicted direction of
+change was consistent with earlier outbreaks.
+Q4. Which situation is most closely analogous to the final paragraph's distinction between an instrument as a '
+lever' and as a 'window'?
+
+A. After publishing attendance rankings, a school observes improved attendance and treats that
+improvement as confirmation that the rankings had accurately described how students would behave
+without the rankings.
+B. A school replaces an inaccurate attendance register with a more reliable digital system and finds that
+reported attendance rises even though student behavior is unchanged.
+C. A school surveys parents about attendance barriers, uses their responses to design bus routes, and
+reports both the survey results and the subsequent attendance improvement separately.
+
+D. A school uses attendance rankings to identify frequently absent students but refuses to intervene, fearing
+that any intervention would invalidate the rankings.
+
+Original practice material | Q5–Q8 | Suggested time: 10–12 minutes
+Passage: The Accountability Gap in Automated Decisions
+
+When an agency replaces a discretionary procedure with an algorithm, it often claims to have made
+decisions more accountable. The claim has an intuitive basis. An official who rejects an application may offer
+a reason that changes from one interview to the next; a computer system can apply the same rule to
+thousands of applications and preserve a record of each calculation. Consistency and traceability are
+genuine improvements. But neither establishes who should answer for a decision when its consequences are
+challenged. A record of how a result was produced is not necessarily an account of why that result was
+justified.
+
+Consider a city that assigns emergency housing through a scoring system. Legislators specify that scarce
+rooms should go to applicants facing the greatest risk. Administrators select the data used to represent risk,
+a contractor develops the model, and caseworkers implement its rankings. If a person is excluded because
+recent changes of address are interpreted as evidence of instability, each participant can plausibly point
+elsewhere. The legislator authorized prioritization, not that particular indicator; the contractor optimized the
+indicator supplied; the administrator relied on validation results; and the caseworker followed the prescribed
+ranking. The decision is not ownerless because no one participated. It becomes difficult to contest precisely
+because responsibility is distributed among participants whose contributions are individually defensible.
+
+One response is to demand that algorithms be explainable. Yet an explanation may be technically accurate
+while failing to identify the judgment at issue. A system might report that an applicant's score fell because
+she had changed addresses three times. That tells us which feature affected the ranking, but not whether
+frequent moves should count against a person whose displacement is itself evidence of need. Conversely, a
+model that is too complicated to describe in a single sentence may still be governed by a publicly defensible
+policy and a meaningful appeal process. Transparency is thus valuable, but it cannot substitute for deciding
+which institution has authority to defend, revise, and remedy the rules embodied in a model.
+
+Critics sometimes infer that responsibility requires returning every decision to a human official. This
+overlooks two difficulties. Human discretion can conceal prejudice behind a vocabulary of judgment, and
+placing an official at the end of an automated process may merely create a ceremonial signature. If that
+official lacks the time, evidence, or authority to overturn the recommendation, the human presence does
+little to restore accountability. What matters is not whether a person appears somewhere in the procedure,
+but whether an identifiable actor can examine the grounds of a contested decision and change its outcome
+when those grounds fail.
+
+The strongest institutional arrangement may therefore separate routine consistency from exceptional
+review. An automated system can rank ordinary cases while a designated body retains the authority and
+resources to hear challenges, inspect the policy assumptions behind disputed indicators, and order
+remedies. This arrangement is not costless: appeals take time, and exceptions can reduce uniformity. Nor
+does it guarantee that every adverse result is mistaken. Its justification is narrower. Efficiency is worth
+preserving where possible, but it should not be purchased by making a consequential decision impossible to
+contest. Accountability is not the elimination of disagreement; it is the assignment of responsibility for
+answering it.
+Questions
+
+Q5. Which statement most accurately expresses the author's position?
+
+A. Automated decisions become accountable once their calculations can be reproduced and their outcomes
+are consistent across applicants.
+
+B. Human discretion is inherently more defensible than algorithmic ranking because officials can respond to
+exceptional circumstances.
+C. Algorithms may improve procedural consistency, but accountability additionally requires an identifiable
+institution empowered to justify and remedy contested decisions.
+D. A public body should avoid automated ranking whenever the criteria used to represent risk involve
+judgments about applicants' circumstances.
+Q6. The author's criticism of a caseworker's 'ceremonial signature' most directly depends on which
+assumption?
+
+A. Officials are generally more susceptible to bias than the automated systems whose decisions they
+approve.
+B. Responsibility cannot be meaningfully assigned to a reviewer who lacks the practical capacity to
+investigate and reverse a disputed recommendation.
+C. Any human review of an automated recommendation must be conducted before the system assigns a
+score.
+D. An automated system is unjustifiable unless its complete computational procedure can be explained to
+every applicant.
+Q7. All of the following would be consistent with the passage's account of accountability, EXCEPT:
+
+A. A scoring system can be fully auditable yet still embed a disputed judgment about what should count as
+evidence of need.
+B. An appeals board can improve accountability even if its decisions occasionally depart from the uniform
+rankings generated by a model.
+C. The presence of several individually defensible contributors to a decision can make the responsibility for
+defending that decision harder to locate.
+D. Once a public agency documents the factors responsible for a rejected application, it has discharged its
+obligation to justify the policy choice behind those factors.
+Q8. A city introduces a housing-allocation model and proposes four safeguards. Which safeguard would most
+directly address the problem identified in the passage while retaining the model's efficiency benefits?
+
+A. Require the contractor to publish the model's source code, while prohibiting caseworkers from altering its
+outputs to preserve consistency.
+B. Ask each caseworker to sign every automated recommendation, without changing the evidence or
+authority available to caseworkers.
+C. Replace the model with individual interviews conducted by senior officials, regardless of processing delays
+or variation between officials.
+D. Keep automated rankings for routine cases, but establish an independent, adequately resourced review
+body able to question indicators and order corrected decisions.
+
+Original practice material | Q9–Q12 | Suggested time: 11–13 minutes
+Passage: The Uses and Limits of Public Memory
+
+A city rebuilding its central square after a flood must decide whether to restore a statue that once stood
+there. The statue commemorated an engineer credited with protecting the city from earlier floods; newly
+examined records suggest that his embankments diverted water toward poorer settlements. Some residents
+demand its removal as a correction to the historical record. Others insist that removal would erase the city's
+past. Both positions presume that a monument chiefly communicates what happened. Yet a monument is
+also a decision about which events deserve a permanent place in the present. Its significance lies as much in
+the selection it performs as in the facts it depicts.
+
+This distinction does not make accuracy irrelevant. A plaque that falsely attributes a bridge to the wrong
+designer can and should be corrected. But even a perfectly accurate plaque cannot answer why one
+designer is celebrated while the laborers who built the bridge remain unnamed. Historical inquiry asks
+whether an account is supported by evidence; commemoration additionally asks what a community wishes
+to honor. Treating these as identical tasks allows a political judgment to masquerade as a factual necessity.
+It also permits officials to defend a controversial choice by pointing to details that no one disputes.
+
+Museums sometimes respond by displaying contradictory accounts side by side. Such pluralism may expose
+visitors to perspectives excluded from the official narrative. Yet adding voices does not automatically
+redistribute authority. A museum may invite displaced families to recount the costs of an infrastructure
+project while retaining sole control over which testimonies are shortened, translated, or placed beside the
+entrance. The institution can become more inclusive in the material it exhibits without becoming more
+accountable for how that material is arranged. Conversely, surrendering all editorial judgment would not
+guarantee fairness: some claims are better supported than others, and curators must still distinguish
+evidence from invention.
+
+The problem is sharpened by institutions' incentives. A council may fund an exhibition that acknowledges
+past injustice precisely because the acknowledgment demonstrates its present enlightenment. Public
+criticism then becomes a resource for institutional legitimacy. This is not proof that the criticism is insincere
+or ineffective. The exhibition may teach visitors something important, and officials may genuinely revise
+their beliefs. But a measure of success confined to whether visitors admire the institution could reward the
+appearance of self-criticism more readily than changes in whose interests the institution serves.
+
+Consider a proposal to restore the statue but surround it with accounts of the settlements harmed by the
+embankments. Opponents call the compromise evasive; supporters call it historically complete. Neither
+verdict follows merely from the quantity of information supplied. The relevant questions include who chose
+the accounts, whether residents can challenge their presentation, and whether the city treats the
+documented harm as bearing on current flood policy. The statue might remain while the city's public
+memory becomes more answerable to those it previously excluded; it might also remain as the centerpiece
+of a display that absorbs criticism without altering anything consequential.
+
+Public memory, then, should not be judged solely by the number of perspectives represented or the
+accuracy of individual inscriptions. Its democratic quality also depends on the processes through which
+representations can be disputed and on whether those disputes can affect decisions beyond the exhibition
+hall. This does not mean every historical grievance must dictate a present policy. It means that institutions
+cannot claim to have settled a controversy simply by displaying it.
+Questions
+
+Q9. The example of the museum displaying contradictory accounts primarily serves to:
+
+A. show that curatorial neutrality is impossible because historical evidence cannot distinguish reliable
+testimony from invention.
+B. demonstrate that an institution can broaden the range of narratives it presents while retaining unequal
+control over how those narratives are framed.
+C. establish that inviting displaced families to contribute accounts necessarily improves an institution's
+democratic legitimacy, even without policy reform.
+D. suggest that historical exhibitions should delegate every editorial decision to the communities whose
+experiences they represent.
+Q10. Which of the following findings would best support the passage’s explanation for how a council can gain
+legitimacy by publicly criticizing its own past conduct?
+
+A. Visitors tend to remember the council's willingness to acknowledge wrongdoing more vividly than the
+historical details of the wrongdoing itself.
+
+B. The council's exhibition contains several archival documents that independently establish the accuracy of
+its account of the past.
+C. The council commissioned the exhibition only after outside historians criticized the older commemorative
+display.
+D. Residents who suffered from the earlier policy continue to disagree about whether the exhibition should
+have been funded.
+Q11. Two historians agree that the statue's inscription is factually correct. Historian I argues that this settles
+the question of whether the statue should be restored. Historian II argues that restoration additionally
+requires a public justification for honoring this engineer rather than others. Which assessment most closely
+follows the passage?
+
+A. Historian I is correct because evidence-based accuracy is the only non-arbitrary standard available for
+public commemoration.
+B. Historian II is correct only if the engineer's achievements were exaggerated in the original inscription.
+C. Historian II distinguishes historical verification from the normative choice of whom to commemorate,
+whereas Historian I conflates them.
+D. Both historians are mistaken because the author regards all commemorative choices as expressions of
+institutional self-interest.
+Q12. Which of the following CANNOT reasonably be inferred from the passage?
+
+A. A historically accurate exhibition can still fail to make the institution responsible for the choices through
+which history is presented.
+B. A museum's inclusion of formerly marginalized accounts may have educational value even if the
+institution also benefits reputationally.
+C. Allowing affected communities to contest a display may matter more to democratic accountability than
+merely increasing the number of perspectives shown.
+D. Whenever a historical exhibition produces no immediate policy change, its acknowledgment of past
+injustice is necessarily insincere.
+
+Original practice material | Q13–Q16 | Suggested time: 12–14 minutes
+Passage: The Ecology of Reliable Cooperation
+
+A fishing cooperative and a private fleet can agree that the health of a coastal fishery matters and still
+disagree about what to do this season. The private fleet calculates that a larger catch will cover its rising fuel
+costs. The cooperative fears that an unusually large catch will reduce next year's breeding stock. Neither
+side must be ignorant or malicious. The disagreement arises partly because the benefit of restraint is
+distributed across future users, while the cost of leaving fish uncaught falls immediately on whoever
+restrains themselves. Yet describing the problem as a simple conflict between individual profit and collective
+welfare obscures a complication: a rule that makes restraint attractive in an ordinary year may cease to do
+so after a storm destroys half the boats.
+
+Governments often respond with fixed catch limits, treating the ecosystem as a stock whose renewal can be
+estimated and divided into permissible withdrawals. Such limits can prevent a race to harvest. Their
+apparent precision, however, rests on estimates of breeding rates, migration and illegal catches. If warmer
+currents move spawning grounds, a limit derived from last decade's data may be too generous even when
+every vessel complies. Conversely, a limit set conservatively enough for the worst imaginable season may
+push small operators out of business in ordinary years. Scientific uncertainty therefore does not make limits
+useless; it makes the conditions under which they are revised as important as the numbers initially chosen.
+
+One proposed improvement is to allow unused catch allowances to be carried forward. In principle, this
+rewards fleets that fish less today. But a transferable allowance can also become an asset: firms with access
+
+to credit may purchase allowances from struggling operators, concentrating the right to fish even if
+total extraction remains unchanged. A rule can thus improve the ecological indicator it was designed to
+control while undermining the social cooperation on which enforcement depends. This is not an argument
+that trading allowances is always harmful. Where ownership is dispersed and enforcement trusted, trading
+may reduce the cost of meeting a conservation target. Its consequences depend on institutions that are
+not visible in a chart of total catches.
+
+A second proposal replaces annual limits with a trigger: fishing pauses whenever a monitoring index falls
+below a threshold. Because the rule responds to current conditions, it appears more adaptive. But the index
+itself may be affected by the rule. When fishing pauses, vessels stop supplying observations from offshore
+waters; the resulting scarcity of reports can make the index look worse, prolonging the pause. Alternatively,
+fleets may change where they fish to avoid triggering the threshold, leaving the index stable while pressure
+shifts to poorly monitored habitats. A feedback mechanism is not automatically self-correcting merely
+because it updates frequently. It can amplify an error or move the activity it measures out of view.
+
+Some analysts conclude that conservation rules should be negotiated locally, since fishers possess
+knowledge that remote models overlook. Local knowledge is indispensable, but locality does not abolish
+power. A village committee dominated by boat owners may exclude seasonal workers whose livelihoods
+depend on processing the catch. Equally, a distant regulator may protect those workers' interests while
+misunderstanding the tides. The choice is not between local wisdom and scientific expertise; it is between
+arrangements that can expose their assumptions to challenge and those that cannot. The relevant question
+is who can contest a forecast, what evidence forces a revision, and who bears the cost while officials decide.
+
+Reliable cooperation, then, is not simply the achievement of a low catch in a given year. It is the capacity to
+maintain ecological restraint through shocks without treating every revision as a betrayal, and without
+distributing the burden so unevenly that compliance collapses. A policy may succeed by its original metric
+and still erode that capacity. Conversely, revising a target after new evidence need not indicate failure,
+provided the process preserves reasons for those asked to comply to trust the rule. The durability of
+conservation depends not on eliminating uncertainty, but on governing the consequences of being wrong.
+Questions
+
+Q13. Which of the following best captures the author's central argument?
+
+A. Since both scientific estimates and local judgments can be distorted, conservation is best achieved by
+fixing a strict limit and changing it only after ecological damage becomes measurable.
+B. Conservation policies should be judged not only by immediate extraction outcomes but also by how they
+respond to uncertain evidence, distribute burdens, and sustain cooperation during shocks.
+C. Allowance trading and threshold-based pauses should be abandoned because their indirect effects
+invariably undermine the ecological benefits they promise.
+D. Locally negotiated conservation rules are generally superior to centralized rules because local fishers can
+detect ecological changes that formal models miss.
+Q14. A regulator reports that transferable catch allowances reduced total extraction for three consecutive
+years. Which additional finding would most seriously weaken the inference that the policy has improved the
+fishery's long-term resilience?
+
+A. The market price of allowances increased even as fuel prices fell, indicating that some fleets valued the
+right to fish more highly than before.
+B. Allowances increasingly accumulated with a few firms; smaller operators exited, and remaining crews
+began concealing catches because they regarded enforcement as unfair.
+C. Annual extraction fell below the regulator's target, although scientists continued to disagree about the
+precise location of spawning grounds.
+
+D. Several fleets sold unused allowances rather than carrying them forward, despite having initially
+supported the trading scheme.
+Q15. Suppose a monitoring index falls below a threshold, triggering a fishing pause. During the pause,
+offshore observations decline because vessels no longer visit those waters, and the index falls further. Which
+policy change most directly addresses the causal defect identified in this scenario, without discarding
+adaptive triggers altogether?
+
+A. Lower the threshold permanently so that fishing is less likely to stop when offshore observations become
+sparse.
+B. Replace the monitoring index with the previous year's total catch, since catch is an objective quantity
+unaffected by observation practices.
+C. Collect offshore measurements independently of fishing activity and assess the trigger using an index
+adjusted for changes in observation coverage.
+D. Allow vessel owners to vote on whether a pause should continue, since they possess practical knowledge
+of conditions offshore.
+Q16. Each of the following is consistent with the passage EXCEPT:
+
+A. A rule that improves an ecological measure can still weaken conservation if it makes enforcement less
+legitimate to those expected to comply.
+B. A revision to a conservation target may preserve trust when its evidentiary basis and distributional
+consequences can be contested.
+C. A locally governed fishery can reproduce inequalities even when its participants possess knowledge
+absent from centralized scientific models.
+D. Because adaptive monitoring rules can distort their own evidence, a fixed annual catch limit is necessarily
+more reliable under ecological uncertainty.
+
+Original hard-leaning practice material | Suggested time: 12–15 minutes
+
+Instructions: Q17–Q18 are sentence-placement questions: insert the given sentence at one of the four
+numbered gaps. Q19–Q20 are paragraph-summary questions: select the option that best summarizes the
+paragraph. Q21–Q22 are odd-sentence-out questions: identify the sentence that does not belong in the
+coherent paragraph formed by the other four. Q23–Q24 are para-jumbles: arrange all four sentences into a
+coherent paragraph and enter the four-digit sequence. No negative marking is assumed for these TITA-style
+items.
+Sentence placement
+
+Q17. Insert the sentence at the most appropriate gap.
+
+Sentence: The apparent independence of these observations was therefore an artifact of how they had been
+collected.
+
+Researchers initially celebrated the agreement among three climate archives: tree rings, lake sediments,
+and historical harvest records. (1) Each appeared to register a sequence of unusually cold summers, and the
+convergence seemed to make the reconstruction unusually robust. (2) Later work revealed, however, that
+the harvest dates had been inferred from the same regional chronicles used to date disturbances in the lake
+sediments; the tree-ring series had also been aligned to those dates before comparison. (3) Agreement
+among the three records still mattered, but it no longer constituted three independent confirmations of the
+chronology. (4) A stronger test would require dating at least one archive without using the disputed historical
+sequence.
+
+A. Gap 1
+B. Gap 2
+
+C. Gap 3
+D. Gap 4
+Q18. Insert the sentence at the most appropriate gap.
+
+Sentence: Yet this solution transfers the problem of exclusion from the final vote to the earlier decision
+about what may be voted on.
+
+Participatory budgeting is often praised because residents can directly allocate a portion of municipal
+spending. (1) Critics observe that turnout may favor property owners and organized groups, while informal
+workers are less able to attend meetings. (2) One reform is to reserve seats for underrepresented residents
+and require that their proposals receive a formal hearing. (3) If officials determine the eligible project
+categories in advance, participants may deliberate fairly over options that leave the most consequential
+priorities untouched. (4) Participation, then, must be assessed not only by who casts a vote but also by who
+can define the agenda.
+
+A. Gap 1
+B. Gap 2
+C. Gap 3
+D. Gap 4
+Paragraph summaries
+
+Q19. Select the best summary.
+
+When a city replaces a congested road with a wider one, travel times may initially fall. The improvement can
+encourage people who previously traveled at different hours, used trains, or avoided the trip to drive during
+the peak period. Businesses may also relocate to take advantage of the new route, lengthening commutes
+over time. This does not imply that road expansion can never improve mobility: where demand is limited by
+geography or coordinated pricing, the extra capacity may remain useful. But evaluating a project only by the
+speed observed immediately after opening confuses a temporary response with its long-term effect on travel
+behavior.
+
+A. Road widening rarely improves mobility because commuters inevitably abandon public transport and
+businesses always move farther from city centers.
+B. The value of added road capacity depends on how travelers and firms respond over time; short-run speed
+gains alone cannot establish its lasting benefit.
+C. Because congestion is chiefly a consequence of poor road pricing, cities should introduce tolls before
+considering any expansion of transport infrastructure.
+D. Although wider roads attract new traffic, they should be judged primarily by whether the initial reduction
+in travel times offsets construction costs.
+Q20. Select the best summary.
+
+An archive's omissions are not merely empty spaces awaiting future discoveries. What gets preserved
+depends on administrative routines, material durability, and judgments about whose activities merit
+documentation. Yet it would be a mistake to infer that every absence was intentionally engineered: a
+missing letter may have burned, been misfiled, or never existed. Historians therefore have to explain both
+the institutions that made some records more likely to survive and the limits of what can be concluded from
+silence. Treating an absence as proof of suppression is as careless as treating the surviving collection as a
+neutral portrait of the past.
+
+A. Since archives are shaped by institutional power, historians should presume deliberate suppression
+whenever records concerning marginalized groups are absent.
+B. Archival gaps reflect both selective preservation and contingent loss, so historians must investigate the
+production of records without assigning unwarranted meaning to missing evidence.
+
+C. The incompleteness of archives makes claims about historical institutions unreliable unless every missing
+document can be reconstructed independently.
+D. Historians should prioritize surviving records over missing ones because the reasons for archival silence
+are usually impossible to establish.
+Odd sentence out
+
+Q21. Four sentences form a coherent paragraph. Identify the odd one out.
+
+1. A scientific model can be useful even when its assumptions are literally false, provided the simplification
+preserves the relationships relevant to a particular question.
+
+2. The difficulty is that a simplification which works for forecasting average demand may fail when the same
+model is used to distribute scarce resources.
+
+3. The earliest mathematical models of population growth were developed long before modern computing
+made large-scale simulation practical.
+
+4. In the second setting, the model's neglected differences among people can become the very differences
+on which a fair decision depends.
+
+5. Thus, evaluating a model requires asking not only whether it predicts well, but also what decision its
+predictions are being asked to justify.
+
+Answer: Enter 1, 2, 3, 4, or 5.
+
+Q22. Four sentences form a coherent paragraph. Identify the odd one out.
+
+1. Restoring a wetland may reduce downstream flooding by slowing the movement of stormwater.
+
+2. But the scale of that benefit depends on whether upstream land use continues to accelerate runoff into
+the restored area.
+
+3. Wetlands also provide habitats for migratory birds, whose seasonal movements can connect ecosystems
+across national borders.
+
+4. If new roads and paved surfaces send water into the wetland faster than it can absorb it, restoration alone
+may deliver little flood protection.
+
+5. Flood-management plans must therefore consider the entire drainage basin rather than treating the
+restored wetland as an isolated engineering device.
+
+Answer: Enter 1, 2, 3, 4, or 5.
+Para-jumbles
+
+Q23. Arrange the four sentences into the most coherent paragraph.
+
+1. That dependence becomes problematic when the indicator is treated as the goal rather than as a partial
+signal of progress toward it.
+
+2. Institutions often select a measurable indicator because the underlying objective—such as good teaching
+or effective care—is difficult to observe directly.
+
+3. Once that substitution has occurred, the institution can improve its reported performance by changing
+what it records, even if the underlying objective remains unmet.
+
+4. Once rewards are attached to the indicator, however, participants have an incentive to optimize the
+recorded measure itself.
+
+Answer: Enter a four-digit sequence.
+
+Q24. Arrange the four sentences into the most coherent paragraph.
+
+1. Only after these independent clocks were compared did researchers realize that the apparent simultaneity
+of the events depended on an earlier dating convention.
+
+2. The eruption and the collapse of a nearby settlement had long been described as parts of a single
+catastrophe.
+
+3. To test that account, one team dated volcanic deposits while another reconstructed the settlement's
+chronology from timber samples.
+
+4. The revised chronology did not establish what caused the settlement's collapse, but it removed temporal
+coincidence as evidence for the volcanic explanation.
+
+Answer: Enter a four-digit sequence.
+
+SECTION: DILR
+
+CAT 2026 — Advanced DILR: Complete Student Paper
+
+22 questions · Five sets · Suggested section time: 40 minutes
+
+Each set is independent. TITA questions require a typed answer; MCQs have four options. This is an
+intentionally difficult practice paper, not an official CAT paper.
+
+CAT 2026 Advanced DILR — Set 1 (Q1–Q5)
+
+Suggested time: 11–13 minutes. Difficulty target: Hard (editorial, not empirical).
+Three-depot reserve allocation
+
+Three depots, A, B and C, distribute emergency supplies over four consecutive days. All quantities are
+indivisible crates. At the start of Day 1, depot A has x crates, depot B has 24 − x crates, and depot C has 12
+crates, where x is an integer from 8 to 18, inclusive.
+
+On each day, the following steps occur in the specified order:
+
+1. The three depots receive their deliveries and fulfill their local demand as shown in the table. These
+changes are applied simultaneously to the balances carried from the preceding day.
+
+2. First transfer: If A has at least 12 crates at this point, A sends 3 crates to B. Otherwise, B sends 2 crates to
+A.
+
+3. Second transfer: After the first transfer, if B has at least 10 crates, B sends 2 crates to C. Otherwise, C
+sends 1 crate to B.
+
+4. The balances after both transfers become the closing balances for the day and the opening balances for
+the next day. No depot may have a negative balance at any stage.
+
+Day                 A delivery         B delivery         C delivery         A demand            B demand           C demand
+
+1                   6                  2                  4                  4                   5                  3
+
+2                   2                  7                  1                  5                   3                  4
+
+3                   5                  1                  3                  3                   6                  2
+
+4                   1                  5                  2                  6                   2                  5
+
+An auditor confirms two facts about the actual four-day operation:
+
+- At the end of Day 2, A held exactly 9 crates.
+
+- At the end of Day 3, C held exactly 11 crates.
+
+Answer Q1–Q5 independently using the data above. For Q5, retain the original starting inventory inferred
+from the auditor's observations, but apply the stated hypothetical change. All other rules remain unchanged.
+
+Q1. [TITA]
+
+What is the initial number of crates at depot A, x?
+
+Q2. [MCQ]
+
+Which is the correct sequence of the first transfer on Days 1 through 4?
+
+A. A→B, A→B, B→A, B→A
+
+B. A→B, B→A, B→A, B→A
+C. A→B, A→B, A→B, B→A
+D. B→A, A→B, B→A, A→B
+Q3. [TITA]
+
+How many crates are held at depot B at the end of Day 4?
+
+Q4. [MCQ]
+
+Consider the actual operation. Which of the following statements is correct?
+
+A. On Day 2, C sends one crate to B.
+B. On Day 3, the second transfer is from C to B.
+C. At the end of Day 1, B holds more crates than C.
+D. At the end of Day 4, A holds fewer crates than C.
+Q5. [TITA — counterfactual]
+
+Suppose the first-transfer threshold on Day 3 only had been 11 crates instead of 12, while all other
+deliveries, demands, thresholds, and the initial inventory stayed the same. What would have been the
+number of crates at depot C at the end of Day 4?
+
+CAT 2026 Advanced DILR — Set 2 (Q6–Q10)
+
+Suggested time: 12–15 minutes. Target: Hard (editorial estimate).
+Two-response directed network
+
+Six stations A, B, C, D, E and F are connected by one-way roads. Two emergency teams depart
+simultaneously at time zero: Team 1 starts at A and must reach E; Team 2 starts at B and must reach F.
+Each team must follow a simple directed path (no station may be visited twice by the same team).
+
+The table lists every available road and its traversal time in minutes. Reverse travel is prohibited unless
+separately listed.
+
+Road                   Minutes               Road                   Minutes                Road                  Minutes
+
+A→B                    3                     A→C                    4                      A→D                   7
+
+B→C                    2                     B→D                    3                      B→E                   8
+
+C→B                    1                     C→D                    2                      C→E                   6
+
+C→F                    9                     D→E                    3                      D→F                   5
+
+E→C                    2                     E→F                    3                      F→E                   2
+
+Capacity rule: A road may be assigned to at most one team for the entire operation, even if the teams would
+traverse it at different times. The teams may share stations, including transit stations, but may not share a
+directed road. All times are additive. Waiting never improves a solution and is excluded.
+
+Dispatch objective: First minimize the time at which both teams have reached their destinations (the larger
+of the two arrival times). Among assignments attaining this minimum, minimize the sum of the two arrival
+times. If there is still a tie, no further tie-break applies. A question about the optimal dispatch refers to this
+two-level objective.
+
+Each question is independent and uses the original road network unless it explicitly describes a closure. A
+closure removes the indicated road(s) entirely. Both teams must still be dispatched.
+
+Q6. [TITA]
+
+What is the minimum possible time, in minutes, by which both teams can arrive in the original network?
+
+Q7. [MCQ]
+
+Under the two-level dispatch objective, which ordered pair of routes is optimal in the original network? The
+first route is Team 1's; the second is Team 2's.
+
+A. A→B→D→E ; B→D→F
+B. A→C→D→E ; B→D→F
+C. A→B→D→E ; B→C→D→F
+D. A→C→E ; B→D→F
+Q8. [TITA]
+
+How many distinct ordered pairs of feasible simple paths allow both teams to arrive within 9 minutes in the
+original network? Two route assignments count as different if either team's path differs.
+
+Q9. [MCQ]
+
+The road D→E is closed. Under the same two-level dispatch objective, which statement about the new
+optimal dispatch is correct?
+
+A. Both teams arrive in at most 9 minutes.
+B. Team 1 takes 10 minutes and Team 2 takes 8 minutes.
+C. Team 1 takes 11 minutes and Team 2 takes 8 minutes.
+D. The minimum possible sum of arrival times is 17 minutes.
+Q10. [TITA]
+
+Suppose both D→E and D→F are closed simultaneously. What is the minimum possible time, in minutes, by
+which both teams can arrive?
+
+CAT 2026 Advanced DILR — Set 3 (Q11–Q14)
+
+Suggested time: 11–14 minutes. Target: Medium–Hard to Hard (editorial estimate).
+Three-plant sales and production reconciliation
+
+A company operates plants A, B and C. Each plant produces and sells a single standardized product. The
+following table records units sold in January, February and March. Eight entries have been withheld. All
+quantities are nonnegative integers.
+
+Plant                      January                    February                  March                      Quarter total
+
+A                          ?                          ?                         40                         120
+
+B                          ?                          ?                         ?                          160
+
+C                          ?                          ?                         ?                          190
+
+Month total                150                        150                       170                        470
+
+Additional facts about sales:
+
+1. Plant A's February sales were 50% higher than its January sales.
+
+2. Plant B sold 10 more units in January than in February.
+
+3. Plant C's March sales were 10 more units than plant B's March sales.
+
+4. Plant C's February sales were 2 more units than plant B's January sales.
+
+The company maintains separate inventories at the plants. At the start of January, inventory was 10 units at
+A, 15 at B and 12 at C. During each month, the plant first produces its units, then fulfils that month's sales.
+No transfers occur between plants unless a question explicitly permits them. All units produced are usable;
+no other inflows or outflows occur.
+
+For each plant, the difference production minus sales was:
+
+Plant                              January                            February                           March
+
+A                                  +6                                 −4                                 +8
+
+B                                  +4                                 +5                                 −3
+
+C                                  0                                  −6                                 +5
+
+A negative difference means the plant sold some units from previously accumulated inventory. Inventory
+cannot become negative at any month-end. The data are mutually consistent.
+
+All questions use the original data unless a question explicitly introduces a change.
+
+Q11. [TITA]
+
+How many units did plant C sell in February?
+
+Q12. [MCQ]
+
+What is the ratio of plant C's March production to plant B's February production?
+
+A. 7 : 5
+B. 3 : 2
+C. 5 : 3
+D. 8 : 5
+Q13. [MCQ]
+
+Which of the following statements is correct?
+
+A. Total February production was 150 units, and plant C ended February with 6 units in inventory.
+B. Plant B ended February with 24 units in inventory, and total March production was 180 units.
+C. Plant A ended March with 18 units in inventory, and total January production was 160 units.
+D. Plant C sold more units than plant B over the quarter, but plant C produced fewer units than plant B in
+March.
+Q14. [TITA]
+
+A new March-only order-allocation policy allows some of plant B's March sales to be reassigned to plant C.
+For every unit reassigned, B sells one fewer unit and C sells one more. March production at each plant
+remains fixed at its original value, and January–February operations remain unchanged. No interplant
+inventory transfers are allowed.
+
+What is the maximum whole number of units that can be reassigned from B to C without any plant ending
+March with negative inventory?
+
+CAT 2026 Advanced DILR — Set 4 (Q15–Q18)
+
+Suggested time: 11–14 minutes. Editorial target: Medium–Hard to Hard.
+Conditional scheduling and rotating supervisors
+
+A training centre must conduct six distinct workshops, labelled A, B, C, D, E and F, in six consecutive, equally
+long time slots numbered 1 through 6. Exactly one workshop occupies each slot, and every workshop is
+conducted exactly once.
+
+Three supervisors, X, Y and Z, are available in a fixed repeating rotation: X supervises slots 1 and 4, Y
+supervises slots 2 and 5, and Z supervises slots 3 and 6. A workshop's supervisor is determined by its
+scheduled slot. Supervisors do not change slots when the workshop order changes.
+
+The following six scheduling conditions all hold:
+
+1. A occurs earlier than C.
+
+2. B is scheduled exactly two slots after D (there is one intervening slot).
+
+3. E is immediately adjacent to A, either before or after it.
+
+4. If C occurs after B, then F must occur before A. This is a one-way implication; its converse is not assumed.
+
+5. The slot numbers of A and F differ by at least three.
+
+6. C and D are not in adjacent slots.
+
+Answer Q15–Q18. Each question is self-contained and uses the original six conditions unless it explicitly
+changes one. A modified-condition question does not inherit modifications from another question.
+
+Q15 (MCQ)
+
+Which of the following is the chronological order of the six workshops?
+
+A. D F B E A C
+B. D F B A E C
+C. F D B E A C
+D. D F E B A C
+Q16 (MCQ)
+
+Which pair of workshops is supervised by Y in the original schedule?
+
+A. B and C
+B. A and F
+C. D and E
+D. B and E
+Q17 (TITA)
+
+Suppose condition 4 is removed entirely, while the other five conditions remain unchanged. How many
+distinct chronological workshop orders satisfy the revised rules?
+
+Q18 (TITA)
+
+Return to the original six conditions. Now replace condition 6 with the requirement that C and D must be
+adjacent (all five other conditions remain unchanged). Among the resulting feasible schedules, in how many
+does supervisor X conduct workshop C?
+
+Response format: Q15 and Q16 A/B/C/D; Q17 and Q18 nonnegative integers. No external facts are required.
+
+CAT 2026 Advanced DILR — Set 5 (Q19–Q22)
+
+Suggested time: 12–15 minutes. Editorial target: Medium–Hard to Hard.
+Conditional Rankings and Performance Analysis
+
+Five teams—A, B, C, D and E—participated in three rounds of a strategy tournament. In each round, the
+teams received the five distinct performance points 1, 2, 3, 4 and 5, with each point value awarded exactly
+once. A higher point value indicates better performance. The tournament's original total for a team is the
+sum of its three round scores.
+
+The scores from Round 1 were recorded as follows:
+
+Team                   A                      B                     C                      D                      E
+
+Round 1 points         5                      3                     1                      4                      2
+
+The Round 2 and Round 3 scores have been erased, but the following four statements are known to be
+accurate:
+
+1. B's Round 2 score plus D's Round 3 score is 10.
+
+2. C's original tournament total is exactly one point less than D's original tournament total.
+
+3. A's Round 2 score plus B's Round 3 score is 6.
+
+4. A received exactly 1 point in Round 3.
+
+All questions refer to the unique scores consistent with these conditions unless a question explicitly changes
+the scoring rule. Changes in one question do not carry over to another.
+
+Q19 (TITA)
+
+Write the Round 2 scores of teams A, B, C, D and E, in that order, as a five-digit string. For example, 12345
+would indicate that A received 1, B received 2, and so on.
+
+Q20 (MCQ)
+
+Under the original total-points scoring system, which statement is correct?
+
+A. Team D wins outright, one point ahead of B.
+B. Team B wins outright, one point ahead of D.
+C. Teams A and C jointly win with equal totals.
+D. Team B wins outright, two points ahead of D.
+Q21 (TITA)
+
+Suppose the tournament instead uses the weighted score
+
+W = R₁ + 2R₂ + 3R₃
+
+where R₁, R₂, R₃ are a team's points in the respective rounds. What is the difference between the
+highest and the third-highest weighted scores? Count tied scores as occupying consecutive positions when
+ordering all five teams' scores from highest to lowest.
+
+Q22 (MCQ)
+
+Return to the original total-points scoring system. Suppose only the Round 3 scores of A and D are
+exchanged, while all other awarded scores remain unchanged. Which outcome follows?
+
+A. A wins outright, with a two-point lead over B.
+
+B. B and A tie for first place.
+C. D remains second, one point behind B.
+D. A wins outright, with a one-point lead over B.
+
+Response format: Q19 five digits; Q20 and Q22 A/B/C/D; Q21 nonnegative integer. No external facts required.
+
+SECTION: QA
+
+CAT 2026 — Advanced Quantitative Aptitude: Complete Student
+Paper
+
+22 questions · 40 minutes · original advanced practice mock.
+
+Original hard-leaning practice questions. Each question is independent. For MCQs, choose one option; for
+TITA, enter the numerical answer. Suggested practice time: 13–16 minutes.
+
+Q1. Weighted averages and transfer (MCQ)
+
+Two divisions A and B have average assessment scores of 64 and 78, respectively. The average across both
+divisions is 72. Six employees are transferred from B to A; their average score is 85. After the transfer, A's
+average becomes 70. Scores do not change. What is the average score of the employees remaining in B?
+
+A. 73.5
+B. 75
+C. 76.5
+D. 77
+Q2. Sequential pricing and tax (TITA)
+
+A retailer buys an item for ₹6,000 and marks it 50% above cost. The retailer applies a 20% discount on the
+marked price, followed by a second discount of d%. A 5% tax is then charged on the discounted selling price
+and passed entirely to the government. The customer's final bill is ₹6,804. What is the retailer's profit as a
+percentage of cost? Enter the percentage as a number, without the % sign.
+
+Q3. Staggered work rates (MCQ)
+
+Three contractors A, B and C can complete a job alone in 12, 18 and 24 days respectively. A works from the
+beginning. B joins after exactly 3 days, and C joins after exactly 6 days. All work continuously at constant
+rates until the job is finished. What fraction of the entire job is performed by B?
+
+A. 7/26
+B. 5/18
+C. 3/13
+D. 4/13
+Q4. Two-stage mixture replacement (TITA)
+
+A tank initially contains 40 litres of a solution that is 30% acid. First, x litres of the well-mixed solution are
+removed and replaced with x litres of a 60% acid solution. The tank is mixed thoroughly. Next, x litres of this
+new mixture are removed and replaced with x litres of pure water. The final concentration is 27% acid. If 0 <
+x < 40, find x in litres, to two decimal places.
+
+Q5. Sales, returns, and target profit (MCQ)
+
+A merchant buys 100 identical units at ₹500 each and incurs a fixed total handling cost of ₹3,200. Twenty
+units sell at 25% above purchase cost. Of the remaining 80 units, 10% are sold at a price p but are later
+returned for a full refund; these eight units are eventually sold at 10% below purchase cost. The other 72
+units sell at price p. The merchant wants a net profit of exactly 25% on the total expenditure, including
+handling. What must p be?
+
+A. ₹675
+B. ₹685
+
+C. ₹700
+D. ₹725
+Q6. Changing speed across segments (TITA)
+
+A vehicle covers 180 km in three consecutive 60-km segments. Its speed in the first segment is 40 km/h; in
+the second it is v km/h; and in the third it is (v + 20) km/h. The entire journey takes exactly 4 hours, with no
+stops. Find the average speed over the last 120 km, in km/h.
+
+Original practice questions. Each question is independent. MCQ: select one option. TITA: enter the requested
+numerical value. Suggested practice time: 17–21 minutes. Difficulty is editorial, not empirically measured.
+
+Q7. Parameterized quadratic (MCQ)
+
+For a positive integer k, the equation x² − (k + 5)x + 4k = 0 has two distinct positive integer roots whose
+difference is exactly 5. What is the product of the roots?
+
+A. 18
+B. 24
+C. 30
+D. 32
+Q8. Functional equation with a restricted domain (TITA)
+
+A function f is defined on the nonnegative rational numbers and satisfies f(x + y) = f(x) + f(y) + 2xy for all
+x,y in its domain. If f(1) = 3, determine 4[f(5/2) − f(1/2)].
+
+Q9. Coupled logarithmic constraints (MCQ)
+
+Positive real numbers x and y satisfy log₂x + log₄y = 5 and log₂y + log₄x = 4. Find x/y.
+
+A. 2
+B. 4
+C. 8
+D. 16
+Q10. Arithmetic and geometric sequences (TITA)
+
+Three positive integers a < b < c form an arithmetic progression and have sum 24. The three numbers a, b,
+and c + 4, in that order, form a geometric progression. Find ac.
+
+Q11. Piecewise minimax optimization (MCQ)
+
+For real x, define F(x) = max{|x − 2| + |x − 8|, 2|x − 5| + 4}. Let S be the set of integers x at which F
+achieves its global minimum. What is the sum of the elements of S?
+
+A. 12
+B. 14
+C. 15
+D. 18
+Q12. Absolute-value equation and admissibility (TITA)
+
+Find the sum of all distinct real solutions to |x² − 5x + 4| = 2x − 2. Enter the exact numerical answer.
+
+Q13. Polynomial identities and reciprocal transformation (MCQ)
+
+The three roots of P(t) = t³ − 12t² + 44t − 48 are distinct positive integers. If the roots are r, s, and u,
+determine 1/(r + 1) + 1/(s + 1) + 1/(u + 1).
+
+A. 13/21
+B. 71/105
+C. 5/7
+D. 19/30
+
+Original practice questions. Each question is independent. MCQ: select one option; TITA: enter the requested
+value. Suggested practice time: 12–16 minutes. Editorial difficulty estimates are not measured CAT
+percentiles.
+
+Q14. Circle tangency inside a triangle (MCQ)
+
+A circle lies entirely inside the triangle bounded by the positive coordinate axes and the line 3x + 4y = 30. It
+is tangent to all three sides. Let T be the point where the circle touches the x-axis and V be the vertex of the
+triangle on the x-axis. What is the squared distance TV²?
+
+A. 25/4
+B. 225/4
+C. 25
+D. 625/16
+Q15. Coordinate geometry and area ratios (TITA)
+
+A triangle has vertices A = (0, 0), B = (12, 0), and C = (0, 9). An interior point P has perpendicular distances
+to the lines AB, AC, and BC, in that order, in the ratio 2 : 3 : 1. Let K be the area of triangle PBC. Determine
+11K.
+
+Q16. Similarity in a trapezoid (MCQ)
+
+In trapezoid ABCD, AB is parallel to CD, with AB : CD = 3 : 2. Diagonals AC and BD meet at O. The area of
+triangle AOD is 30 square units. What is the area of the entire trapezoid?
+
+A. 100
+B. 120
+C. 125
+D. 150
+Q17. Cost-weighted mensuration optimization (TITA)
+
+A cylindrical container has no lid, must hold 250π cubic units, and has radius r and height h. Material for the
+circular base costs twice as much per square unit as material for the curved side. If the curved-side material
+costs 1 unit per square unit, what is the minimum total material cost divided by π? Assume r > 0 and h > 0.
+
+Original CAT-style practice. All five questions are independent. MCQ: select one answer; TITA: enter the
+integer. Suggested practice time: 15–20 minutes. Difficulty is an editorial target, not a measured percentile.
+
+Q18. Coupled congruences and divisibility (MCQ) — Hard
+
+A positive integer N leaves remainders 2, 3, and 4 when divided by 5, 7, and 9, respectively. It is also
+divisible by 11. What is the least possible value of N?
+
+A. 2992
+B. 6457
+C. 9922
+D. 1387
+Q19. Divisor-count constraints and square factors (TITA) — Hard
+
+A positive integer N is divisible by 12, is not divisible by 5, and has exactly 18 positive divisors. In addition,
+N/12 is a perfect square. Find the smallest possible N.
+
+Q20. Constrained nonnegative integer solutions (MCQ) — Medium–Hard
+
+Three integers x, y, z satisfy
+
+- x + y + z = 18;
+
+- x is a positive even integer;
+
+- y is a positive integer and z > y;
+
+- x + 2y is divisible by 3.
+
+How many ordered triples (x, y, z) satisfy all the conditions?
+
+A. 6
+B. 7
+C. 8
+D. 9
+Q21. Repeated-letter arrangements with interacting restrictions (TITA) — Hard
+
+How many distinct six-letter arrangements of A, A, B, B, C, C satisfy all of the following?
+
+1. No two identical letters are adjacent.
+
+2. The first A occurs before the first B.
+
+3. The last letter is not C.
+
+Enter the number of arrangements.
+
+Q22. Restricted lattice paths through a checkpoint (MCQ) — Hard
+
+A robot moves from (0, 0) to (6, 5), taking only one-unit steps right or up. It must pass through (3, 2), but it
+may never visit (2, 1) or (4, 3). How many distinct routes satisfy these conditions?
+
+A. 28
+B. 30
+C. 32
+D. 36
